@@ -4095,8 +4095,7 @@ color:#f2f2f2;
 .main-bannr-contnt {
 	position: absolute;
 	top: 29px;
-	width:300px;
-	
+	width: 300px;
 	z-index: 99;
 	right: 0;
 }
@@ -4147,7 +4146,7 @@ color:#f2f2f2;
 	font-size: 36px;
 	font-weight: 600;
 	margin-bottom: 10px;
-	text-shadow:0 0 1px #FFF;
+	text-shadow: 0 0 1px #FFF;
 }
 .abbu-contnt span {
 	font-size: 34px;
@@ -4171,7 +4170,6 @@ color:#f2f2f2;
 	text-align: center;
 }
 .bann-rght {
-	 
 }
 .form-main {
 	width: 290px;
@@ -4681,96 +4679,248 @@ span.road:after {
 	margin-top: 10px;
 }
 .owl-home {
-	z-index:inherit;
+	z-index: inherit;
 }
-.owl-home .item{
-	height:700px;
-	background-size:cover;
-	background-repeat:no-repeat;
-	background-position:center top;
+.owl-home .item {
+	height: 700px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top;
 }
-.owl-home .item:after{
-	content:"";
-	position:absolute;
-	left:0;
-	top:0;
-	z-index:1;
-	 
-	height:100%;
-	width:100%;	
+.owl-home .item:after {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1;
+	height: 100%;
+	width: 100%;
 }
-.owl-home .abbu-contnt{
-	margin:0;
-	padding:0;
-	position:absolute;
-	left:0;
-	bottom:200px;
-	z-index:3;
-	 
-	width:100%;
- 
+.owl-home .abbu-contnt {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 0;
+	bottom: 200px;
+	z-index: 3;
+	width: 100%;
 }
-.owl-home .abbu-contnt div{
-	width:100%;
-	padding-left:100px;
-	text-align:left;
-	padding-right:400px;
+.owl-home .abbu-contnt div {
+	width: 100%;
+	padding-left: 100px;
+	text-align: left;
+	padding-right: 400px;
 }
-.owl-home .owl-prev{
-  
-	width:40px;
-	height:40px;
-	display:inline-block;
-	z-index:999;
-	margin:0 2px;
-	 color:#fff;
-	background:#cc201a;
-	
-	-webkit-border-radius:100%;
--moz-border-radius: 100%;
-border-radius: 100%;
+.owl-home .owl-prev {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	z-index: 999;
+	margin: 0 2px;
+	color: #fff;
+	background: #cc201a;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
 }
- 
-.owl-home .owl-next{
-	 
-	width:40px;
-	height:40px;
-	display:inline-block;
-	z-index:999;
-	margin:0 2px;
-	background:#cc201a;
+.owl-home .owl-next {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	z-index: 999;
+	margin: 0 2px;
+	background: #cc201a;
+	color: #fff;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+}
+.owl-home .owl-nav .fa {
+	position: relative;
+	top: 8px;
+	font-size: 21px;
+}
+.owl-home .owl-nav {
+	width: 100%;
+	position: absolute;
+	right: 0;
+	bottom: 20px;
+	margin: 0 2px;
+	text-align: center;
+}
+.tbl-footer td {
+	border: 0;
+	padding: 0;
+	line-height: normal;
+}
+.page-top-title {
+	background: #24275e;
+	padding: 25px 15px;
+	color: #fff;
+	font-size: 24px;
+	line-height: 24px;
+	font-weight: 700;
+}
+.my-account-div{
+	padding:50px 0
+}
+.my-account-div .right-div h3 {
+	margin: 0;
+	padding: 0 0;
+	font-size: 18px;
+	color: #000;
+	font-weight: 600
+}
+.my-account-div .right-div h3.border-tb {
+	padding: 10px 0;
+	border-top: 1px solid #ebebeb;
+	border-bottom: 1px solid #ebebeb;
+	margin: 15px 0;
+}
+.my-account-div .payment-tbl th, .my-account-div .payment-tbl td {
+	border: none;
+	font-size: 14px;
+	padding: 0px;
+	line-height: 26px;
+	font-weight: 500;
+}
+.my-account-div .payment-tbl th {
+	color: #999;
+	font-weight: 400;
+	width: 120px;
+}
+.my-account-div .payment-tbl {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ebebeb;
+	padding-bottom: 20px;
+}
+.table-listing {
+	overflow: auto
+}
+.table-listing table {
+	min-width: 450px;
+}
+.table-listing.min-width700 table {
+	min-width: 700px;
+}
+.table-listing.min-width1000 table {
+	min-width: 900px;
+}
+.table-listing table th, .table-listing table td {
+	border-left: none;
+	font-size: 14px;
+	border-right: none;
+}
+.table-listing table th {
+	color: #999;
+	font-weight: 400;
+	background: rgba(204,204,204,0.2);
+	border-top: none;
+}
+.table-listing table td strong {
+	font-weight: 500;
+}
+.table-listing .btn {
+	background: #4088bf;
+	color: #fff;
+	margin: 5px 2px;
+}
+.my-account-div .bottom-btn-div {
+	max-width: 150px;
+}
+.my-account-div .bottom-btn-div .btn {
+	display: block;
+	background: none;
+	border: 1px solid #CCC;
+	margin-bottom: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: #000;
+	font-weight: 500;
+	font-size: 14px;
+}
+.my-account-div .bottom-btn-div .btn:hover {
+	color: #000;
+	background: rgba(204,204,204,0.2);
+}
+.my-account-div .left-div .img-div {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.my-account-div .left-div .img-div a {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+	border: 5px solid #ecebe6;
+}
+#loginModal .inner-div {
+	border: 1px solid #CCC;
+	-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+overflow:hidden;
+}
+#loginModal .new{
+	font-weight:500;
+	display:block;
+	color:#0a223d;
+	padding:5px 0;
+}
+#loginModal button.close{
+	    position: absolute;
+    right: 15px;
+	    font-size: 29px;
+    top: 8px;
+}
+#loginModal .inner-div h2 {
+	background: #cc1f1b;
+	color: #fff;
+	text-align: center;
+	font-size: 24px;
+	font-weight: 600;
+	margin: 0;
+	padding: 20px 0;
+}
+#loginModal .inner-div .f-div {
+	padding: 15px;
+}
+#loginModal .inner-div input {
+	margin-bottom: 20px;
+	border: 1px solid #eceeef;
+}
+#loginModal .btn {
+	display: block;
+	width: 100%;
+	height: 50px;
+	background: #cc1f1b;
+	font-size: 24px;
+	font-weight: 500;
 	color:#fff;
 	
-	-webkit-border-radius:100%;
--moz-border-radius: 100%;
-border-radius: 100%;
- 
 }
- .owl-home  .owl-nav .fa{
-	position:relative;
-	top: 8px;
-    font-size: 21px;
+ @media (max-width:991px) {
+.my-account-div .left-div {
+	display: table;
+	margin: 0 auto;
+	margin-bottom: 30px;
 }
-.owl-home  .owl-nav{
-	    width: 100%;
-    position: absolute;
-    right: 0;
-    bottom: 20px;
-	margin:0 2px;
-	text-align:center;
 }
-
-.tbl-footer td{
-border:0;
-padding:0;
-line-height:normal;
-}
-
-
  @media (max-width:767px) {
-	 .main-bannr-contnt{
-		width:100%
-		}
+	 .my-account-div{
+	padding:30px 0
+}
+.main-bannr-contnt {
+	width: 100%
+}
 .kode_client_text .fig_hover {
 	display: none !important;
 }
