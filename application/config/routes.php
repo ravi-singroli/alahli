@@ -23,7 +23,8 @@ $route['desert-driving'] = 'home/desert_driving';
 $route['defensive-driving'] = 'home/defensive_driving';
 $route['company-introductions'] = 'home/company_introductions';
 
-
-
+$route['my-account'] = 'dashboard/my_account';
+$route['payment-details'] = 'dashboard/payment_details';
+$route['test-details'] = 'dashboard/test_details';
 // *********** Front end routes Only Goes Here End ***************** //
 
