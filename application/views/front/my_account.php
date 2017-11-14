@@ -32,7 +32,7 @@
     	<div class="col-md-3 col-lg-2">
         	<div class="left-div">
             	<div class="img-div">
-                	<a href="#" style="background-image:url(http://localhost/Local-Project/Om/alahli/assets/images/abbu.jpg)"></a>
+                	<a href="#" style="background-image:url(<?php echo base_url("assets/images/abbu.jpg"); ?>)"></a>
                 </div>
                 <div class="bottom-btn-div">
                 	<a href="#" class="btn">Course Details</a>
