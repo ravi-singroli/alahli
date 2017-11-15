@@ -93,6 +93,7 @@ define('CV_TIME_ZONE_NAME', 'Asia/Calcutta');
 define('CV_EMAIL_FROM', 'info@alahlidubai.ae');
 define('CV_EMAIL_TO', 'callcenter@alahlidubai.ae');
 //define('CV_EMAIL_TO', 'ravisingroli@gmail.com');
+define('CV_ARABIC_LANG', 'ar');// Folder name for Arabic Language
 
 
 /********************** Manually Defiend Constants End ******************/
