@@ -22,12 +22,13 @@
 <link href="<?php echo base_url("assets/css/slick-theme.css"); ?>" rel="stylesheet">
 <link href="<?php echo base_url("assets/css/typography.css"); ?>" rel="stylesheet">
 <link href="<?php echo base_url("assets/css/shotcode.css"); ?>" rel="stylesheet">
-<link rel="stylesheet" href="<?php echo base_url("assets/".CV_ARABIC_LANG."/main.css"); ?>">
-<link rel="stylesheet" href="<?php echo base_url("assets/".CV_ARABIC_LANG."/style.css"); ?>">
+<link rel="stylesheet" href="<?php echo base_url("assets/main.css"); ?>">
+<link rel="stylesheet" href="<?php echo base_url("assets/style.css"); ?>">
 <link rel="stylesheet" href="<?php echo base_url("assets/svg-icon.css"); ?>">
 <link rel="stylesheet" href="<?php echo base_url("assets/css/color.css"); ?>">
 <link rel="stylesheet" href="<?php echo base_url("assets/css/contact-buttons.css"); ?>">
 <link rel="stylesheet" href="<?php echo base_url("assets/css/responsive.css"); ?>">
+<link rel="stylesheet" href="<?php echo base_url("assets/".CV_ARABIC_LANG."/custom.css"); ?>">
 <style>
 .primary-nav {
     float: right;
