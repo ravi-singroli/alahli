@@ -2,8 +2,8 @@
   <!--KODE BANNER WRAP START-->
 <div class="kode_top_banner_wrap">
 <div class="top-banner-content">
-    <h2>About us</h2>
-<div class="kode_breadcrumbs"><a href="http://godgrace.premiumthemes.in/" title="God Grace" class="godgrace-bc-trail-begin">Home</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">About Us</span><div class="clear"></div></div>
+    <h2>معلومات عنا</h2>
+<div class="kode_breadcrumbs"><a href="http://godgrace.premiumthemes.in/" title="God Grace" class="godgrace-bc-trail-begin">الصفحة الرئيسية</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">معلومات عنا</span><div class="clear"></div></div>
 <div class="clearfix"></div>
 </div>
 </div>

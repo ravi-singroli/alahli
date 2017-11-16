@@ -20,3 +20,31 @@ body{
 	padding-left:inherit;
 	padding-right:20px;
 }
+.section-tab .tab-content h3{
+	padding-left:0;
+	border:none;
+	border-right: 2px solid #CC201A;
+	    padding-right: 15px;
+}
+
+.section-tab .tab-content .list2 li{
+	    padding-left: 0;
+			    padding-right: 18px;
+}
+.section-tab .tab-content .list2 li:before{
+	    left:auto;
+		right:0
+}
+.section-tab .tab-content .fees-table td,
+.section-tab .tab-content .fees-table th{
+	text-align:inherit;
+}
+.section-tab .nav li a{
+	border: 1px solid #F00;
+    border-left: none;
+	font-size: 20px;
+	padding: 15px 42px;
+}
+.section-tab .nav li:last-child a {
+    border-left: 1px solid #F00;
+}
