@@ -1,3 +1,14 @@
+
+@font-face {
+    font-family: 'Nurkholis';
+    src: url('fonts/Nurkholis.eot');
+    src: url('fonts/Nurkholis.eot') format('embedded-opentype'),
+         url('fonts/Nurkholis.woff2') format('woff2'),
+         url('fonts/Nurkholis.woff') format('woff'),
+         url('fonts/Nurkholis.ttf') format('truetype'),
+         url('fonts/Nurkholis.svg#Nurkholis') format('svg');
+}
+
 .wraper {
 	clear: both;
 }

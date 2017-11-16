@@ -46,6 +46,9 @@
 </script>
 </head>
 <body>
+<div class="main-body">
+	
+
 <!--WRAPER START-->
 <header id="header" class="site-header header-sports menu-dark static">
   <?php $this->load->view('front/layouts/header'); ?>
@@ -59,7 +62,7 @@ if(isset($body) && $body)
 <footer> 
 <?php $this->load->view('front/layouts/footer'); ?>
 </footer>
-
+</div>
 <!--WRAPER END--> 
 <!--JavaScript--> 
 <script src="<?php echo base_url("assets/js/jquery.js"); ?>"></script> 

@@ -1,0 +1,22 @@
+body{
+	direction:rtl;
+	/*font-family:'Nurkholis', Arial, Helvetica, sans-serif;*/
+}
+
+.main-body{
+	overflow:hidden
+}
+
+.section_hdg span:after, .section_hdg span:before{
+	left: -56px;
+	right:auto;
+}
+.section_hdg span:after{
+	    left:auto;
+		right: -56px;
+}
+.py-in ul{
+	text-align:inherit;
+	padding-left:inherit;
+	padding-right:20px;
+}

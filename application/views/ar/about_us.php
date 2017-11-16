@@ -22,18 +22,13 @@
     <div class="col-md-6 mar214">
       <div class="kode_mosque_text">
         <div class="section_hdg">
-          <h3>About us </h3>
+          <h3>معلومات عنا</h3>
           <span><i class="fa fa-road" aria-hidden="true"></i></span> </div>
         <div class="kode_mosque_item">
-          <p>Al Ahli Driving Center has been successfully serving since 2006. Our driver education
-courses for Car, Heavy Bus, Light Bus, Heavy Truck &amp; Articulated, Forklift and Motor
-Cycles are professionally designed to cater for drivers of all skill levels from beginners to
-experienced drivers.</p>
-<p>We are proud of our record as a driver education facility and we are confident that we
-provide courses that are superior to other driving schools in Dubai - U.A.E. We focus on
-teaching our students correct driving habits. Our instructors are one of the best in terms of
-training, enthusiasm, dedication and experience.</p>
-          <div class="koed_banner_btn"><a class="medium_btn border btn_hover" href="<?php echo site_url("contact-us"); ?>">Join Us Now</a> </div>
+          <p>يقدم مركز الاهلى لتعليم قيادة السيارات خدمات ناجحة منذ عام 2006 .كما تعتبر الدورة التدريبية التى يقدمها مدربي مركز الاهلى لتعليم قيادة السيارات لفئات السيارة الخفيفة والحافلة الثقيلة والخفيفة والشاحنات الثقيلة والمفصلية والرافعة الشوكية والدراجة النارية والتى تم اعدادها خصيصا باحترافية تلبى احتياجات المتدربين وتزودهم بجميع مستويات المهاره من المبتدئين حتى الوصول الى درجة الاحترافية .</p>
+<p>نحن فخورون بما انجزناة فى مجال اعداد وتدريب السائقين بسهولة . ونحن واثقون من أننا نقدم دورات متفوقة على مدارس القيادة الأخرى في دبي بدولة الامارات العربية المتحدة . ونحن نركز على تعليم طلابنا عادات القيادة الصحيحة. كما ان لدينا افضل المدربين من حيث التدريب والحماس والتفانى والخبرة . </p>
+
+          <div class="koed_banner_btn"><a class="medium_btn border btn_hover" href="<?php echo site_url("contact-us"); ?>">انضم إلينا الآن</a> </div>
         </div>
       </div>
     </div>
@@ -43,12 +38,12 @@ training, enthusiasm, dedication and experience.</p>
     <div class="col-md-6 mar214">
       <div class="kode_mosque_text">
         <div class="section_hdg">
-          <h3>Company Profile </h3>
+          <h3>ملف الشركة</h3>
           <span><i class="fa fa-road" aria-hidden="true"></i></span> </div>
-        <div class="kode_mosque_item">
-          <p>Al Ahli Driving Center (ADC) celebrates 11 years of success in learner driver training and driver road risk reduction in the UAE; it has been in operation since 2006 and is among the most successful driving institute in Dubai. ADC provides driving license training courses using its large fleet of vehicles in different vehicle categories like Car, Heavy Bus, Light Bus, Heavy Truck, Articulated, Forklift and Motor Cycles. </p>
-<p>The institute began with a single training Centre located in Al Qouz Industrial Area  IV, Dubai and today has grown to establish 18 branches and is continuing to drive its expansion across DUBAI. Since then thousands of students have successfully completed their driving learning courses and sessions at ADC and have obtained permit/license for driving
-</p>
+        <div class="kode_mosque_item"> 
+<p>يحتفل مركز الأهلي لتعليم قيادة السيارات بمرور 11 عاما من النجاح في مجال تدريب السائقين  ووتزويدهم بمهارات الحد من مخاطر السير على الطرق في دولة الإمارات العربية المتحدة.والمركز ليس بالحديث فى هذا المجال حيث يعمل منذ عام 2006 حيث يعد من بين انجح معاهد القيادة فى دبى . كما يوفر مركز الاهلى دورات تدريبية للحصول على رخصة القيادة بما يمتلكة من اسطول كبير  فى فئات المركبات المختلفة كالسيارات الخفيفة والحافلات الثقيلة والخفيفة والشاحنات الثقيلة والمفصلية والرافعة الشوكية والدراجات النارية .</p>
+<p>بدأ المعهد بمركز تدريب واحد يقع في منطقة القوز الصناعية الرابعة بدبي، وقد نما اليوم ليصل إلى 18 فرعا ويستمر في دفع توسعه عبر دبي. ومنذ ذلك الحين نجح آلاف الطلاب في إكمال دورات تعلم القيادة في مركز الاهلى  وحصلوا على تصريح / رخصة للقيادة.</p>
+
           <!--<div class="koed_banner_btn"><a class="medium_btn border btn_hover" href="contact.html">Join Us Now</a> </div>-->
         </div>
       </div>
@@ -69,13 +64,14 @@ training, enthusiasm, dedication and experience.</p>
     <div class="col-md-6 mar214">
       <div class="kode_mosque_text">
         <div class="section_hdg">
-          <h3>Certifications Received</h3>
+          <h3>الشهادات التي تم استلامها</h3>
           <span><i class="fa fa-road" aria-hidden="true"></i></span> </div>
         <div class="kode_mosque_item">
-          <p>The driver training standards are set at International levels and the driving training methods are continuously updated to make use of the latest driving techniques. We have Advanced e-Learning facilities of Theory Lectures. ADC also offers advanced 'Post License Training Courses' such as Defensive Driving, Desert Driving, and Refresher Courses to delegates with valid UAE driving License, Sign Language Driver Training Course in Dubai for People of Determination (Disabled) . </p>
-<p><strong>We are ISO 9001, OHSAS 18001, ISO14001, ISO 50001 & ISO39001 Certified company and we member in Dubai Quality Group. We have achieved Dubai Award for Sustainable Transport in 2017 9th Edition from RTA.  We have also received the 'Best Service Provider' award from RTA for the year 2010. </strong>
+            
+<p>يتم ضبط معايير تدريب السائقين على المستويات الدولية ويتم تحديث أساليب التدريب على القيادة باستمرار للاستفادة من أحدث تقنيات القيادة. كما يتوفر لدينا وسائل التعليم الإلكتروني الخاصة بالمحاضرات النظرية . كما يقدم مركز الاهلى دورات تدريبية فى مجال القيادة المتقدمة للحصول على رخصة قيادة مثل القيادة الدفاعية، القيادة الصحراوية، ودورات تنشيطية لهؤلاء الذين يحملون رخصة قيادة سارية المفعول في دولة اإلامارات العربية المتحدة، ودورة تدريبية بلغة اإلاشارة في دبي لاصحاب الهمم( ذوي اإلعاقة).</p>
+
+<p>نحن ISO 9001, OHSAS 18001, ISO14001, ISO 50001 & ISO39001 شركة معتمدة ونحن عضو في مجموعة دبى للجودة. لقد حققنا جائزة دبي للنقل المستدام في عام 2017 الطبعة التاسعة من هيئة الطرق والمواصلات. كما حصلنا على جائزة "أفضل مزود خدمة" من هيئة الطرق والمواصلات لعام 2010.
 </p>
-          <!--<div class="koed_banner_btn"><a class="medium_btn border btn_hover" href="contact.html">Join Us Now</a> </div>-->
         </div>
       </div>
     </div>
@@ -87,27 +83,27 @@ training, enthusiasm, dedication and experience.</p>
 <!--KODE ABOUT WRAP END--> 
 <!--KODE MISSION WRAP START-->
 <div class="kode_mission_wrap">
-<div class="section_hdg hdg_2"><h3> Mission,Vision and Cost Value</h3><span><i class="fa fa-road" aria-hidden="true"></i></span></div>
+<div class="section_hdg hdg_2"><h3>المهمة والرؤية وقيمة التكلفة</h3><span><i class="fa fa-road" aria-hidden="true"></i></span></div>
 <div class="row">
 <div class="col-sm-4">
     <div class="mi-in">
     <i class="fa fa-bullseye" aria-hidden="true"></i>
-    <h4>MISSION</h4>
-  <p>We are committed to supply the learner drivers with the safest driving skills and help them to become responsible drivers by providing them with world class theoretical training where they learn the safe driving behaviour, accident avoidance techniques and all rules and regulations to support the RTA in making "Dubai Accident Free State"</p>
+    <h4>المهام</h4>
+  <p>يلتزم مركز الاهلى لتعليم قيادة السيارات بتزويد المتقدمين لتعلم قيادة السيارات مهارات القيادة الامنة ومساعدتهم على ان يكونوا اكثر امانا على الطرق لانقاذ الارواح فى المقام الاول وذلك من خلال منحهم تدريب نظرى بمستوى عالمى حيث يتم تذويدهم بقوانين وضوابط القيادة على الطرقات ؛ سلوكيات القيادة الامنة وتجنب الحوادث ؛ وذلك عبر تعليمهم مهارات المناورة الاكثر تقدما للقيادة بامان ؛ اللباقة فى القيادة ؛ تجنب حوادث الطرق وتزويدهم بجميع القواعد واللوائح لدعم هيئة الطرق والمواصلات في جعل " دبي خالية من الحوادث".</p>
   </div>
 </div>
 <div class="col-sm-4">
     <div class="mi-in">
     <i class="fa fa-eye" aria-hidden="true"></i>
-    <h4>VISION</h4>
-  <p>To be recognized and respected as the best driver education provider in the region, be the Center/Institute of choice for all types of driver license applicants in the country and to promote road safety in Dubai (UAE) </p>
+    <h4>الرؤية </h4>
+  <p>ان يكون مركز تعليم القيادة من افضل المراكز المعتمدة والمعترف بها على مستوى المنطقة ؛ وان يكون المركز هو المركز الاكثر اختيارا من قبل كافة المتقدمين لتعليم القيادة لجميع انواع القيادة بما يضمن تعزيز السلامة على الطرق فى دبى بدولة الامارات العربية المتحدة .</p>
   </div>
 </div>
 <div class="col-sm-4">
     <div class="mi-in">
     <i class="fa fa-money" aria-hidden="true"></i>
-    <h4>COST VALUE</h4>
-  <p>Integrity, Respect, Commitment, Reliability, Honesty, Accountability, Excellence & Team work</p>
+    <h4>القيم الأساسية </h4>
+  <p>السلامة والاحترام والالتزام والدقة والصدق والمسؤولية والتميز والعمل بروح الفريق الواحد.</p>
   </div>
 </div>
 </div>
@@ -115,41 +111,42 @@ training, enthusiasm, dedication and experience.</p>
 <!--KODE MISSION WRAP END-->
 <!--KODE Policy WRAP START-->
 <div class="kode_policy_wrap">
-<div class="section_hdg hdg_2 hdg_3"><h3>Policies</h3><span><i class="fa fa-road" aria-hidden="true"></i></span></div>
+<div class="section_hdg hdg_2 hdg_3"><h3>سياسات</h3><span><i class="fa fa-road" aria-hidden="true"></i></span></div>
 <div class="policy-box">
 <div>
     <div class="py-in">
-    <h4>Quality Policy</h4>
-  <p>Al Ahli driving Center is committed to provide   the best driving training services that exceeds customer expectations and all the applicable requirements We'll strive to continually improve our quality management system in line with our mission and vision by assessing our Organization`s Context  </p>
+    <h4>سياسة الجودة</h4>
+  <p>يلتزم مركز الاهلى لتعليم قيادة السيارات بتوفير أفضل خدمات التدريب على القيادة التي تتجاوز توقعات العملاء وجميع المتطلبات المعمول بها ونحن سوف نسعى جاهدين لتحسين نظام إدارة الجودة لدينا باستمرار بما يتماشى مع رسالتنا ورؤيتنا من خلال تقييم سياق منظمتنا</p>
   </div>
 </div>
 <div >
     <div class="py-in">
-    <h4>Energy Policy</h4>
-  <p> As a part of our Energy Strategy Al Ahli is committed to responsible energy management and will initiate energy efficiency processes in our operations and offices by continually improving the Energy Management System though the following </p>
+    <h4>السياسة الحيوية</h4>
+  <p>  وكجزء من استراتيجيتنا الحيوية، يتعهد مركز الاهلى بمسؤولية الادارة الحيوية وستبدأ عمليات الكفاءة الحيوية داخل الخدمة ومكاتبنا من خلال التحسين المستمر لنظام إلادارة الحيوية على الرغم مما يلي :</p>
   <ul>
-    <li>	By complying with all applicable legal and other requirements related to energy management. </li>
-    <li>	Assuring the availability of information and resources to meet our objectives and targets </li>
-    <li>	Incorporating energy efficiency as a key component for purchase of new equipment, major renovation, and new design</li>
-    <li>	Promoting energy saving awareness to our employees, student and stakeholders</li>
+    <li>من خلال الالتزام بجميع المتطلبات القانونية وغيرها من المتطلبات المتعلقة بالاإدارة الحيوية.</li>
+    <li>ضمان توافر المعلومات والموارد لتحقيق أهدافنا وغاياتنا</li>
+    <li>إدراج کفاءة الطاقة کمکون رئیسي لشراء المعدات الجدیدة والتجدید الرئيسى والتصمیم الجدید</li>
+    <li> تعزيز الوعي بتوفير الطاقة لموظفينا والطالب وأصحاب المصلحة</li>
   </ul>
   </div>
 </div>
 <div>
     <div class="py-in">
-    <h4>ENVIRONMENT POLICY</h4>
-  <p> As a responsible driving training center, we are committed to the protection of environment through pollution prevention, sustainable resource use and climate change mitigation in line with our Organizational Context and by fulfilling all the compliance obligations We are committed to   continually improve our environment management system to enhance environmental performance.</p>
+    <h4>سياسة البيئة</h4>
+  <p>وباعتبارنا مركزا متخصصا للتدريب على القيادة، فإننا ملتزمون بحماية البيئة من خلال منع التلوث والاستخدام المستدام للموارد والتخفيف من آثار تغير المناخ بما يتماشى مع سياقنا التنظيمي والوفاء بجميع التزامات  نحن ملتزمون باستمرار بتحسين نظام إدارة البيئة لدينا وتعزيز الأداء البيئي.</p>
   </div>
 </div>
 <div>
     <div class="py-in">
-    <h4>Road Traffic & Occupational  Health & Safety Policy</h4>
-  <p> Al Ahli is committed to adapt safe system approach, promote safe and healthy working condition to reduce death and serious injuries of everybody involved in its operations, the people who come in to contact with its operations, the physical and natural environment in which work is carried out by</p>
+    <h4>سياسة المرور على الطرق والصحة والسلامة المهنية</h4>
+  <p>ويلتزم مركز الأهلي بتطبيق نهج النظام الآمن، وتعزيز ظروف العمل الآمنة والصحية للحد من الوفيات والإصابات الخطيرة من جميع المشاركين في خدماتها، والأشخاص الذين يأتون للاتصال بعملياتها، والبيئة المادية والطبيعية التي يتم العمل خارجها من خلا
+</p>
   <ul>
-    <li>	complying with all the compliance obligations </li>
-    <li>	controlling OH&S, RTS Risks through hierarchy of control </li>
-    <li>continually improving OH&S RTS Management System to enhance performance </li>
-    <li>	through participation </li>
+    <li>االامتثال لجميع الالتزامات </li>
+    <li>السيطرة على مخاطر OH&S, RTS  من خلال التسلسل الهرمي للسيطرة</li>
+    <li>استمرار تحسين نظام إدارة OH&S, RTS لتعزيز الأداء</li>
+    <li> من خلال المشاركة</li>
     </ul>
   </div>
 </div>
