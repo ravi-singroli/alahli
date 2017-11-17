@@ -43,10 +43,10 @@
           <h4 class="widget_title">الأحداث الأخيرة</h4>
           <ul class="kode_calender_detail">
             <li>
-              <div class="kode_calender_list"> <span>23 <i> أبريل </ i></span>
+              <div class="kode_calender_list"> <span>23 <i> أبريل </i></span>
                 <div class="kode_event_text">
                   <h6><a href="#">الوعي بقواعد السلامة. الإثنين</a></h6>
-                  <p>الأحد <span> 09: 45 صباحا </span> إلى <span> 9:30 مساء </ span></p>
+                  <p>الأحد <span> 09: 45 صباحا </span> إلى <span> 9:30 مساء </span></p>
                 </div>
               </div>
             </li>
