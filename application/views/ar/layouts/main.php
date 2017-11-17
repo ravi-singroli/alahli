@@ -51,7 +51,7 @@
 
 <!--WRAPER START-->
 <header id="header" class="site-header header-sports menu-dark static">
-  <?php $this->load->view('front/layouts/header'); ?>
+  <?php $this->load->view('ar/layouts/header'); ?>
 </header>
 
 <?php				                  
@@ -60,7 +60,7 @@ if(isset($body) && $body)
 ?>
 
 <footer> 
-<?php $this->load->view('front/layouts/footer'); ?>
+<?php $this->load->view('ar/layouts/footer'); ?>
 </footer>
 </div>
 <!--WRAPER END--> 

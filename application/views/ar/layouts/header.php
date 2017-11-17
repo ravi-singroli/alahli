@@ -13,7 +13,7 @@
      <ul class="menu-list nav-hover-1">
       <li class="has-dropdown "> <a href="<?php echo site_url(); ?>">الصفحة الرئيسية</a></li>
       <li class="has-dropdown "> <a href="<?php echo site_url("about-us"); ?>">معلومات عنا</a></li>
-      <li class="has-dropdown "> <a href="javascript:void(0);">Courses</a>
+      <li class="has-dropdown "> <a href="javascript:void(0);">الدورات</a>
         <ul class="sub-menu submenu-bg-image roboto-slab fz-11 text-uppercase">
           <li><a href="<?php echo site_url("light-motor-driving"); ?>">ضوء محرك دريفينغ</a></li>
           <li><a href="<?php echo site_url("motor-cycle-driving"); ?>">قيادة الدراجات النارية</a></li>
