@@ -15,7 +15,7 @@
         <div class="form-main">
           <h4>
             <div class="topf-ico"><img src="<?php echo base_url("assets/images/edit.png"); ?>"></div>
-            Register With Us</h4>
+            سجل معنا</h4>
           <?php echo $this->session->flashdata('message'); ?>
           <?php if(validation_errors()) { ?>
           <div class="alert alert-danger"> <?php echo validation_errors();?> </div>
@@ -24,15 +24,15 @@
           <form method="post" id="frm_register_with_us" action="" onsubmit="return register_with_us(this);">
             <div class="padd10">
               <div class="form-group"> <i class="fa fa-user" aria-hidden="true"></i>
-                <input class="form-control" id="txt_name" name="txt_name" placeholder="Enter Your Name" type="text" maxlength="50" required>
+                <input class="form-control" id="txt_name" name="txt_name" placeholder="الاسم" type="text" maxlength="50" required>
               </div>
               <div class="form-group"> <i class="fa fa-envelope" aria-hidden="true"></i>
-                <input class="form-control" id="txt_email_id" name="txt_email_id" placeholder="Enter Your Email" type="email" maxlength="50" required>
+                <input class="form-control" id="txt_email_id" name="txt_email_id" placeholder="البريد الالكترونى" type="email" maxlength="50" required>
               </div>
               <div class="form-group"> <i class="fa fa-phone" aria-hidden="true"></i>
-                <input class="form-control" id="txt_mobile_no" name="txt_mobile_no" placeholder="Enter Your Phone" type="text" maxlength="10" required onKeyUp="validate_onkeyup(this);" onBlur="validate_onblure(this);">
+                <input class="form-control" id="txt_mobile_no" name="txt_mobile_no" placeholder="رقم الهاتف" type="text" maxlength="10" required onKeyUp="validate_onkeyup(this);" onBlur="validate_onblure(this);">
               </div>
-              <button type="submit" class="btn btn-default">Submit</button>
+              <button type="submit" class="btn btn-default">تقديم</button>
             </div>
           </form>
         </div>
@@ -43,18 +43,18 @@
       <div class="item" style="background-image:url(<?php echo base_url("assets/images/banner-s.jpg"); ?>)">
         <div class="abbu-contnt">
           <div>
-          	<h4>Experience an award winning driving school</h4>
+          	<h4>جرب مركز الاهلى الحائز على جائزة افضل مدرسة تعليم قيادة </h4>
           <!--<span>&nbsp;</span>-->
-          <p><a href="http://alahlidubai.ae/about-us">Learn More</a></p>
+          <p><a href="http://alahlidubai.ae/about-us">اعرف اكثر</a></p>
           </div>
         </div> 
       </div>
       <div class="item" style="background-image:url(<?php echo base_url("assets/images/banner2.jpg"); ?>)">
         <div class="abbu-contnt">
           <div>
-          	<h4>Experience an award winning driving school</h4>
+          	<h4>جرب مركز الاهلى الحائز على جائزة افضل مدرسة تعليم قيادة </h4>
           <!--<span>&nbsp;</span>-->
-          <p><a href="http://alahlidubai.ae/about-us">Learn More</a></p>
+          <p><a href="http://alahlidubai.ae/about-us">اعرف اكثر</a></p>
           </div>
         </div>
         
@@ -68,19 +68,19 @@
       <div class="form-main">
         <h4>
           <div class="topf-ico"><img src="<?php echo base_url("assets/images/edit.png"); ?>"></div>
-          Register With Us</h4>
+          سجل معنا</h4>
         <form method="post" action="">
           <div class="padd10">
             <div class="form-group"> <i class="fa fa-user" aria-hidden="true"></i>
-              <input class="form-control" id="txt_name" name="txt_name" placeholder="Enter Your Name" type="text" maxlength="50" required>
+              <input class="form-control" id="txt_name" name="txt_name" placeholder="الاسم" type="text" maxlength="50" required>
             </div>
             <div class="form-group"> <i class="fa fa-envelope" aria-hidden="true"></i>
-              <input class="form-control" id="txt_email_id" name="txt_email_id" placeholder="Enter Your Email" type="email"maxlength="50" required>
+              <input class="form-control" id="txt_email_id" name="txt_email_id" placeholder="البريد الالكترونى" type="email"maxlength="50" required>
             </div>
             <div class="form-group"> <i class="fa fa-phone" aria-hidden="true"></i>
-              <input class="form-control" id="txt_mobile_no" name="txt_mobile_no" placeholder="Enter Your Phone" type="text" maxlength="10" required>
+              <input class="form-control" id="txt_mobile_no" name="txt_mobile_no" placeholder="رقم الهاتف" type="text" maxlength="10" required>
             </div>
-            <button type="submit" class="btn btn-default">Submit</button>
+            <button type="submit" class="btn btn-default">تقديم</button>
           </div>
         </form>
       </div>
@@ -123,17 +123,11 @@
         <div class="col-md-6 mar214">
           <div class="kode_mosque_text">
             <div class="section_hdg"> <a href="#"><img src="<?php echo base_url("assets/images/hdg-img.png"); ?>" alt=""></a>
-              <h3>About Us</h3>
+              <h3>عن المركز</h3>
               <span><i class="fa fa-road" aria-hidden="true"></i></span> </div>
             <div class="kode_mosque_item">
-              <p>Al Ahli Driving Center has been successfully serving since 2006. Our driver education
-                courses for Car, Heavy Bus, Light Bus, Heavy Truck &amp; Articulated, Forklift and Motor
-                Cycles are professionally designed to cater for drivers of all skill levels from beginners to
-                experienced drivers.</p>
-              <p>We are proud of our record as a driver education facility and we are confident that we
-                provide courses that are superior to other driving schools in Dubai - U.A.E. We focus on
-                teaching our students correct driving habits. Our instructors are one of the best in terms of
-                training, enthusiasm, dedication and experience.</p>
+              <p>يقدم مركز الاهلى لتعليم قيادة السيارات خدمات ناجحة منذ عام 2006 .كما تعتبر الدورة التدريبية التى يقدمها مدربي مركز الاهلى لتعليم قيادة السيارات لفئات السيارة الخفيفة والحافلة الثقيلة والخفيفة والشاحنات الثقيلة والمفصلية والرافعة الشوكية والدراجة النارية والتى تم اعدادها خصيصا باحترافية تلبى احتياجات المتدربين وتزودهم بجميع مستويات المهاره من المبتدئين حتى الوصول الى درجة الاحترافية .</p>
+              <p>نحن فخورون بما انجزناة فى مجال اعداد وتدريب السائقين بسهولة . ونحن واثقون من أننا نقدم دورات متفوقة على مدارس القيادة الأخرى في دبي بدولة الامارات العربية المتحدة . ونحن نركز على تعليم طلابنا عادات القيادة الصحيحة. كما ان لدينا افضل المدربين من حيث التدريب والحماس والتفانى والخبرة .</p>
               <!--<ul class="kode_counter_mosque">
 											<li>
 												<span class="counter">10</span>
@@ -152,7 +146,7 @@
 												<h6><a href="#">Imams</a></h6>
 											</li>
 										</ul>-->
-              <div class="koed_banner_btn"> <a class="medium_btn border margin-right-1 btn_hover" href="<?php echo site_url("about-us"); ?>">Read More</a> <a class="medium_btn border btn_hover" href="<?php echo site_url("contact-us"); ?>">Join Us Now</a> </div>
+              <div class="koed_banner_btn"> <a class="medium_btn border margin-right-1 btn_hover" href="<?php echo site_url("/".CV_ARABIC_LANG."/about-us"); ?>">اقرا اكثر</a> <a class="medium_btn border btn_hover" href="<?php echo site_url("/".CV_ARABIC_LANG."/contact-us"); ?>">انضم لنا الان</a> </div>
             </div>
           </div>
         </div>
@@ -168,7 +162,7 @@
     <div class="container"> 
       <!--SECTION HDG START-->
       <div class="section_hdg hdg_2"> <a href="#"><img src="<?php echo base_url("assets/images/hdg-img-2.png"); ?>" alt=""></a>
-        <h3>Our Facilities</h3>
+        <h3>مرافقنا</h3>
         <span><i class="fa fa-road" aria-hidden="true"></i></i></span> </div>
       <!--SECTION HDG END-->
       <div class="kode_pillars_row">
@@ -176,19 +170,19 @@
           <div class="panel-heading">
             <ul class="nav nav-tabs kode_pillars_item">
               <li><a class="left_bottom hvr-ripple-out" href="#tab" data-toggle="tab"><span><i class="fa fa-volume-control-phone"></i></span>
-                <h6>Call center</h6>
+                <h6>كول سنتر</h6>
                 </a></li>
               <li><a class="left_center hvr-ripple-out" href="#tab1" data-toggle="tab"><span><i class="fa fa-car"></i></span>
-                <h6>Pickup &amp; Drop</h6>
+                <h6>التوصيل من والى</h6>
                 </a></li>
               <li><a class="center hvr-ripple-out" href="#tab2" data-toggle="tab"><span><i class="fa fa-internet-explorer"></i></span>
-                <h6>Free Internet</h6>
+                <h6>انترنت مجانى</h6>
                 </a></li>
               <li><a class="right_center hvr-ripple-out" href="#tab3" data-toggle="tab"><span><i class="fa fa-eye"></i></span>
-                <h6>Eye test</h6>
+                <h6>فحص النظر</h6>
                 </a></li>
               <li><a class="right_bottom hvr-ripple-out" href="#tab4" data-toggle="tab"><span><i class="fa fa-comments-o"></i></span>
-                <h6>Customer feedback</h6>
+                <h6>استطلاع الرأى</h6>
                 </a></li>
             </ul>
           </div>
@@ -196,32 +190,32 @@
             <div class="tab-content">
               <div class="tab-pane fade in active" id="tab">
                 <div class="kode_pillars_text"> <span><i class="fa fa-volume-control-phone"></i></span>
-                  <h4>Call center</h4>
-                  <p>At Al Ahli Driving Centre we take care each every need of your to make your training easy and joyful...</p>
+                  <h4>كول سنتر</h4>
+                  <p>في مركز الأهلي لتعليم قيادة السيارات نهتم بكل مايخصكم لجعل تدريبكم فى غاية الراحة والرفاهية.</p>
                 </div>
               </div>
               <div class="tab-pane fade in" id="tab1">
                 <div class="kode_pillars_text"> <span><i class="fa fa-car"></i></span>
-                  <h4>Pickup &amp; Drop</h4>
-                  <p>At Al Ahli Driving Centre we take care each every need of your to make your training easy and joyful...</p>
+                  <h4>التوصيل من والى</h4>
+                  <p>في مركز الأهلي لتعليم قيادة السيارات نهتم بكل مايخصكم لجعل تدريبكم فى غاية الراحة والرفاهية.</p>
                 </div>
               </div>
               <div class="tab-pane fade in" id="tab2">
                 <div class="kode_pillars_text"> <span><i class="fa fa-internet-explorer"></i></span>
-                  <h4>Free Internet</h4>
-                  <p>At Al Ahli Driving Centre we take care each every need of your to make your training easy and joyful...</p>
+                  <h4>انترنت مجانى</h4>
+                  <p>في مركز الأهلي لتعليم قيادة السيارات نهتم بكل مايخصكم لجعل تدريبكم فى غاية الراحة والرفاهية.</p>
                 </div>
               </div>
               <div class="tab-pane fade in" id="tab3">
                 <div class="kode_pillars_text"> <span><i class="fa fa-eye"></i></span>
-                  <h4>Eye test</h4>
-                  <p>At Al Ahli Driving Centre we take care each every need of your to make your training easy and joyful...</p>
+                  <h4>فحص النظر</h4>
+                  <p>في مركز الأهلي لتعليم قيادة السيارات نهتم بكل مايخصكم لجعل تدريبكم فى غاية الراحة والرفاهية.</p>
                 </div>
               </div>
               <div class="tab-pane fade in" id="tab4">
                 <div class="kode_pillars_text"> <span><i class="fa fa-comments-o"></i></span>
-                  <h4>Customer feedback</h4>
-                  <p>At Al Ahli Driving Centre we take care each every need of your to make your training easy and joyful...</p>
+                  <h4>استطلاع الرأى</h4>
+                  <p>في مركز الأهلي لتعليم قيادة السيارات نهتم بكل مايخصكم لجعل تدريبكم فى غاية الراحة والرفاهية.</p>
                 </div>
               </div>
             </div>
@@ -238,72 +232,72 @@
     <div class="container"> 
       <!--SECTION HDG START-->
       <div class="section_hdg hdg_2 hdg_3"> <a href="#"><img src="<?php echo base_url("assets/images/hdg-img.png"); ?>" alt=""></a>
-        <h3>Our Services</h3>
+        <h3>خدماتنا </h3>
         <span><i class="fa fa-road" aria-hidden="true"></i></span> </div>
       <!--SECTION HDG END-->
       <div class="row">
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("light-motor-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/light-motor-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/cars.png"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Light vehicle driving</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("light-motor-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>المركبة الخفيفة</h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/light-motor-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a> </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("heavy-truck-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/heavy-truck-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/heavy_vehicle.png"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Heavy vehicle driving</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("heavy-truck-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>الشاحنة الثقيلة </h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/heavy-truck-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a > </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("heavy-bus-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/heavy-bus-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/heavy_bus.png"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Heavy bus driving</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("heavy-bus-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>الحافلة الثقيلة</h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/heavy-bus-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a> </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("heavy-light-forklift-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/heavy-light-forklift-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/forklift.png"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Machinery (Heavy / Light)</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("heavy-light-forklift-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>الرافعة الشوكية ( الخفيفة – الثقيلة )</h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/heavy-light-forklift-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a > </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("motor-cycle-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/motor-cycle-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/motorcycle2.png"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Motorcycle driving</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("motor-cycle-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>الدراجة النارية</h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/motor-cycle-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a > </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("desert-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/desert-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/desert-driving1.png"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Desert Driving</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("desert-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>القيادة الصحراوية</h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/desert-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a> </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("defensive-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/defensive-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/family_d.gif"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Defence Driving</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("defensive-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>القيادة الوقائية</h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/defensive-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a> </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("defensive-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/defensive-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/school_bus.png"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4>Advanced Driving</h4>
-              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("defensive-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
+              <h4>القيادة المتقدمة</h4>
+              <a class="right_arrow hvr-ripple-out" href="<?php echo site_url("/".CV_ARABIC_LANG."/defensive-driving"); ?>"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
           </a > </div>
         <!-- <div class="col-md-12">
@@ -314,19 +308,19 @@
         <div class="col-md-3 col-sm-6">
           <div class=""> </div>
         </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("light-bus-driving"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/light-bus-driving"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/thumb_light_bus.jpg"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4><a href="#">Light Bus Driving</a ></h4>
+              <h4><a href="#">الحافلة الخفيفة </a ></h4>
               <a class="right_arrow hvr-ripple-out" href="#"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
         </div>
-        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("people-determination-details"); ?>">
+        <div class="col-md-3 col-sm-6"> <a href="<?php echo site_url("/".CV_ARABIC_LANG."/people-determination-details"); ?>">
           <div class="kode_service_des">
             <figure> <img src="<?php echo base_url("assets/images/thumb-disabled.jpg"); ?>" alt=""> </figure>
             <div class="kode_service_text"> <span><i class="fa fa-taxi"></i></span>
-              <h4><a href="#">PEOPLE OF DETERMINATION DETAILS</a ></h4>
+              <h4><a href="#">بيوبل، بسبب، تحديد، ديتايل</a ></h4>
               <a class="right_arrow hvr-ripple-out" href="#"><i class="fa fa-arrow-right"></i></a> </div>
           </div>
         </div>
@@ -421,7 +415,7 @@
     <div class="container"> 
       <!--SECTION HDG START-->
       <div class="section_hdg hdg_2 hdg_3"> <a href="#"><img src="<?php echo base_url("assets/images/hdg-img.png"); ?>" alt=""></a>
-        <h3>Our Trainers</h3>
+        <h3>المدربين</h3>
         <span><i class="fa fa-road" aria-hidden="true"></i></span> </div>
       <!--SECTION HDG END-->
       <div class="kode-team-slide">
@@ -523,8 +517,8 @@
         <div class="col-md-6">
           <div class="kode_newsletter_des"> <span><i class="fa fa-envelope"></i></span>
             <div class="kode_newsletter_text">
-              <h5><a href="#">Newsletter Sign Up</a></h5>
-              <p>For Latest Updates Subscribe us </p>
+              <h5><a href="#">الحصول على النشرات البريدية</a></h5>
+              <p>الاشتراك فى القائمة البريدية  </p>
             </div>
           </div>
         </div>
@@ -533,8 +527,8 @@
             <form method="post" id="frm_newsletter" action="<?php echo site_url("home/submit_newsletter"); ?>" onsubmit="return frm_newsletter_submit(this);">
               <div class="kf_commet_field">
                 <div id="dv_error_news"> </div>
-                <input placeholder="Enter Your Email" type="email" value="" data-default="Website" size="30" id="txt_email_id1" name="txt_email_id" maxlength="50" required>
-                <button name="submit" type="submit" class="medium_btn background-bg-dark">Submit</button>
+                <input placeholder="البريد الالكترونى" type="email" value="" data-default="Website" size="30" id="txt_email_id1" name="txt_email_id" maxlength="50" required>
+                <button name="submit" type="submit" class="medium_btn background-bg-dark">تقديم</button>
               </div>
             </form>
           </div>
@@ -556,13 +550,12 @@
         <img src="<?php echo base_url("assets/images/abbu.jpg"); ?>">
         <p>When we look back at the years from 1980 up to the year 2017 and beyond, we realize that there is no doubt that we have grown and are prospering in our field whilst also overcoming the challenges and difficulties we faced.</p>
         <h3>Ali Bujsaim</h3>
-        <h5>Al Ahli Driving Center</h5>
+        <h5>مركز الاهلى لتعليم قيادة السيارات </h5>
       </div>
     </div>
   </div>
 </div>
 <script>
-
 $('.bxslider').bxSlider({
   auto: true,
   autoControls: true,
@@ -570,10 +563,6 @@ $('.bxslider').bxSlider({
   pager: true,
   slideWidth: 600
 });
-
-
-
-
 function frm_newsletter_submit(frm)
 {
    //$("#loading").css('display','block');
@@ -599,7 +588,6 @@ function frm_newsletter_submit(frm)
     });
     return false;
 }
-
 function register_with_us(frm)
 {
    //$("#loading").css('display','block');
@@ -628,8 +616,6 @@ function register_with_us(frm)
     });
     return false;
 }
-
-
 function validate_onkeyup(that)
 {
     that.value = that.value.replace(/[^0-9]/g,'');

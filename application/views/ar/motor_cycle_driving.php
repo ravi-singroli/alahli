@@ -2,8 +2,8 @@
   <!--KODE BANNER WRAP START-->
   <div class="kode_top_banner_wrap desert-banner desert-banner-bike">
     <div class="top-banner-content ">
-      <h2>Motor Cycle Traning</h2>
-      <div class="kode_breadcrumbs"><a href="/" title="God Grace" class="godgrace-bc-trail-begin">Home</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">MOTOR CYCLE TRAINING</span>
+      <h2>قيادة الدراجات النارية</h2>
+      <div class="kode_breadcrumbs"><a href="/" title="God Grace" class="godgrace-bc-trail-begin">الصفحة الرئيسية</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">قيادة الدراجات النارية</span>
         <div class="clear"></div>
       </div>
       <div class="clearfix"></div>
@@ -15,103 +15,104 @@
   <!--CONTAINER STRAT-->
   <div class="container">
     <div class="section_hdg hdg_2 hdg_3">
-      <h3>Commencement of Training</h3>
+      <h3>المشاركة في التدريب</h3>
       <span><i class="fa fa-road" aria-hidden="true"></i></span></div>
     <!--ROW STRAT-->
     <div class="section-tab"> 
       <!-- Nav tabs -->
       <ul class="nav nav-tabs" role="tablist">
-        <li role="presentation" class="active"><a href="#course-info" aria-controls="home" role="tab" data-toggle="tab"><i class="fa fa-book" aria-hidden="true"></i> COURSE INFORMATION</a></li>
-        <li role="presentation"><a href="#documents-required" aria-controls="profile" role="tab" data-toggle="tab"><i class="fa fa-file-text" aria-hidden="true"></i> DOCUMENTS  REQUIRED</a></li>
-        <li role="presentation"><a href="#fees" role="tab" data-toggle="tab"><i class="fa fa-money" aria-hidden="true"></i> FEES</a></li>
-        <li role="presentation"><a href="#lectures-details" role="tab" data-toggle="tab">LECTURES DETAILS</a></li>
-        <li role="presentation"><a href="#test-details" role="tab" data-toggle="tab">TEST DETAILS</a></li>
-        <li role="presentation"><a href="#training-details" role="tab" data-toggle="tab"><i class="fa fa-line-chart" aria-hidden="true"></i> TRAINING DETAILS</a></li>
+        <li role="presentation" class="active"><a href="#course-info" aria-controls="home" role="tab" data-toggle="tab"><i class="fa fa-book" aria-hidden="true"></i> معلومات الدورة</a></li>
+         <li role="presentation"><a href="#documents-required" aria-controls="profile" role="tab" data-toggle="tab"><i class="fa fa-file-text" aria-hidden="true"></i> المستندات المطلوبة</a></li>
+         <li role="presentation"><a href="#fees" role="tab" data-toggle="tab"><i class="fa fa-money" aria-hidden="true"></i> الرسوم</a></li>
+        <li role="presentation"><a href="#lectures-details" role="tab" data-toggle="tab">المحاضرات</a></li>
+        <li role="presentation"><a href="#test-details" role="tab" data-toggle="tab">الفحص</a></li>
+        <li role="presentation"><a href="#training-details" role="tab" data-toggle="tab"><i class="fa fa-line-chart" aria-hidden="true"></i> تفاصيل التدريب</a></li>
       </ul>
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="course-info">
-          <h3> Motor Cycle Traning</h3>
-          <p>The motorcycle course is increasingly popular in Dubai and prepares students for RTA driving test to get Dubai driving license category 1. Students who complete this course and pass RTA tests are licensed to drive either manual or automatic transmission motorcycles.</p>
-          <p>This course also teaches turning and cornering at high speeds such as curves on highways and winding roads, especially when the curve is tighter than anticipated, tackling sharp turns from stoplights or stop signs, pulling out of parking spaces or driveways or onto a narrow street.</p>
+          <h3>فئة الدراجة النارية</h3>
+          <p>مما لا شك فية يعتبر التدريب على الدراجة النارية ذات شعبية متزايدة فى امارة دبى وذلك من خلال تاهيل واعدادالطلاب الى الفحص النهائى الخاص بهيئة الطرق والمواصلات للحصول على رخصة القيادة للدراجة النارية فئة رقم (1) . بعد الانتهاء من دورة التدريب الخاصة بفئة الدراجة النارية واجتياز اختبار فحص الطريق يكون الطالب قادرا على قيادة الدراجة النارية والتحكم فيها سواء كانت اوتوماتيك او عادى . يعتبر الحد الادنى للتسجيل للحصول على رخصة القيادة للدراجة النارية هو سبعة عشر (17) عاما.</p>
+          <p>يتم تدريب الطالب خلال هذة الدورة على التحول والاستحواذ فى السرعات العالية مثل المنحنيات على الطرق السريعة والطرق المتعرجة وخصوصا عندما يكون المنحنى اشد مما كان متوقعا . ويتم تدريب الطالب ايضا خلال هذة الدورة على معالجة المنعطفات الحادة من اشارات المرور او علامات التوقف او المداخل او على شوارع ضيقة .</p>
+          <p>من هنا يظهر مركز الاهلى لتعليم قيادة السيارات كواحد من افضل معاهد تعليم قيادة الدراجة النارية فى دبى حيث تكمن رؤية المركز فى اعداد وتاهيل سائق دراجة نارية محترف وملم بقوانين هيئة الطرق والمواصلات . حيث تعتبر من اولويات مركز الاهلى توفير قواعد الامن والسلامة لسائقى الدراجة النارية وذلك من خلال توفير الامكانيات التى يحتاجها الطالب من محاضرات نظرية وتدريب عملى على ايدى مدربين ذو كفاءة عالية .</p>
           <hr />
-          <h3>Instructions and Information</h3>
+          <h3>نقاط المحتوى التدريبة </h3>
           <ul class="disc">
-            <li>The Minimum age to obtain a motorcycle driving license is 17 years.</li>
+            <li>توازن المركبة والتحكم بها</li>
+            <li>تحديد موقع المركبة</li>
+            <li>مراقبة اشارات المرور</li>
+            <li>الالتزام بالحارة </li>
+            <li>استخدام الغيارات والقابض ومزود السرعة والبوق والمكابح والمرايا الجانبية...الخ</li>
           </ul>
-          <h3>Key course content</h3>
-          <ul class="disc">
-            <li>Vehicle balancing and control</li>
-            <li>Vehicle positioning</li>
-            <li>Observation of traffic signs</li>
-            <li>Lane discipline</li>
-            <li>Use of gears, clutch, accelerator, horn, brakes, side mirrors, etc</li>
-            <li>Students who do not possess any motorcycle driving license are considered as a Beginner and thus have to register for mandatory 30 classes.</li>
-            <li>Students are eligible to take 16 classes provided they have a valid two-year old motorcycle driving license from their country and an affidavit from their consulate stating they have a valid motorcycle license.</li>
-            <li>Students coming for bike driving license training classes must wear safety shoes, full length sleeves shirt / T-Shirts and full length trousers whenever riding.</li>
-          </ul>
+          <p>يخضع الطالب الى 15 ساعة تدريب عملية عند التسجيل اذا لم يتوفر معة رخصة قيادة لفئة الدراجة النارية من قبل </p>
+          <p>يخضع الطالب الى 8 ساعات تدريب عملية اذا كان معة رخصة لفئة الدراجة النارية ومدتها تبدا من سنتين فاكثر ولا بد ان تكون متاحة وليست منتهية الصلاحية</p>
+          <p>يجب على الطلاب القادمين للتدريب العملى للحصول على رخصة قيادة لفئة الدراجة النارية ارتداء احذية السلامة وسترة طويلة الاكمام سواء قميص او تي شيرت وسراويل طويلة عند كل تدريب على الدراجة. </p>
         </div>
         <div role="tabpanel" class="tab-pane" id="documents-required">
           <div class="row">
             <div class="col-md-6">
-              <h3>Documents Required: - Dubai VISA- Company Sponsor</h3>
+              <h3>اقامة الطالب من امارة دبى (الكفيل شركة او جامعة )</h3>
               <ul class="list2">
-                <li>Passport &amp; Visa page copies - 2 set</li>
-                <li>Original Emirates ID with copy</li>
-                <li>No Objection Letter (w/ Stamp &amp;  Signature)
+                <li>المستندات المطلوبة</li>
+                <li>نسختين من جواز السفر متاح ونسختين من الاقامة المتاحة </li>
+                <li>شهادة عدم ممانعة من الكفيل مع ذكر نوع الرخصة المطلوبة
                 </li>
-                <li>Eye test (available in Al Quoz – Head Office)</li>
-                <li>Original Country License with copy (if available)</li>
+                <li>فحص النظر ويكون من ضمن التكلفة الكلية (متاح فقط فى المقر الرئيسى بالقوز الصناعية رقم 4)</li>
+                <li>اصل الهوية الاماراتية المتاحة ونسخة عنها </li>
+                <li>اصل الرخصة ان وجدت من دولة اخرى ونسخة عنها </li>
               </ul>
               <hr />
-              <h3>Document Required: Dubai VISA - Other Sponsor</h3>
+              <h3>اقامة الطالب من امارة دبى (الكفيل شخص )</h3>
               <ul class="list2">
-                <li>Students and Sponsor&rsquo;s Passport and VISA page  copies - 2 set</li>
-                <li>Original Emirates ID with copy</li>
-                <li>No Objection Letter from sponsor</li>
-                <li>Eye test (available in Al Quoz – Head Office)</li>
-                <li>Original Country License with copy (if  available)</li>
+                <li>المستندات المطلوبة</li>
+                <li>نسختين من جواز السفر متاح ونسختين من الاقامة المتاحة لكلا من الطالب والكفيل</li>
+                <li>اذن تعليم من الكفيل مع ذكر نوع الرخصة المطلوبة </li>
+                <li>فحص النظر ويكون من ضمن التكلفة الكلية (متاح فقط فى المقر الرئيسى بالقوز الصناعية رقم 4)</li>
+                <li>اصل الهوية الاماراتية المتاحة ونسخة عنها </li>
+                <li>اصل الرخصة ان وجدت من دولة اخرى ونسخة عنها </li>
               </ul>
               <hr />
             </div>
             <div class="col-md-6">
-			 <h3>Document Required - Other Emirates (under company Sponsorship)</h3>
+			 <h3>اقامة الطالب من امارة اخرى غير دبى </h3>
               <ul class="list2">
-                <li>Original passport along with 2 copies</li>
-                <li>NOC from Sponsor in Dubai Branch - (mentioning  you are working in Dubai Branch (w/ Stamp &amp; Signature) Mentioning the  required category)</li>
-                <li>Company's Trade License copy - (Dubai Branch  &amp; as per <br>Visa residency, under the same sponsor's name)</li>
-                <li>Original Emirates ID with copy</li>
-                <li>Eye test (available in Al Quoz – Head Office)</li>
-                <li>Original Country License (if available)</li>
+                <li>المستندات المطلوبة</li>
+                <li>اصل جواز السفر المتاح والاقامة المتاحة مع نسختين لكل منهما</li>
+                <li>شهادة عدم ممانعة من الكفيل ويذكر فيها ان الطالب حاليا يعمل بفرع الشركة فى دبى وليس هناك مانع من استخراج رخصة قيادة مع ذكر نوع الرخصة المطلوبة </li>
+                <li>رخصة تجارية من فرع دبى والامارة الاخرى ويحمل نفس اسم الكفيل</li>
+                <li>فحص النظر ويكون من ضمن التكلفة الكلية (متاح فقط فى المقر الرئيسى بالقوز الصناعية رقم 4)</li>
+                <li>اصل الهوية الاماراتية المتاحة ونسخة عنها </li>
+                <li>اصل الرخصة ان وجدت من دولة اخرى ونسخة عنها </li>
               </ul>
 			  <hr/>
-            <h3>Document Required for UAE and GCC Nationals </h3>
+            <h3>المواطنين  </h3>
               <ul class="list2">
-                <li> Original  Emirates ID and copy</li>
+                <li>فحص النظر ويكون من ضمن التكلفة الكلية (متاح فقط فى المقر الرئيسى بالقوز الصناعية رقم 4)</li>
+                <li>اصل الهوية الاماراتية المتاحة ونسخة عنها</li>
               </ul>
                <hr />
             </div>
           </div>
         </div>
         <div role="tabpanel" class="tab-pane" id="fees">
-          <h3>PRICE LIST FOR PRACTICAL TRAINING</h3>
+          <h3>رسوم الدراجة النارية </h3>
           <table border="1" cellspacing="0" cellpadding="0" class="fees-table" width="100%">
             <tr>
-              <th>Motor Cycle</th>
-              <th>Regular </th>
-              <th>Friday</th>
-              <th>Shifting</th>
-               <th>VIP</th>
+              <th>الدراجة النارية</th>
+              <th>الجدول المنتظم</th>
+              <th>جدول يوم الجمعة</th>
+              <th>جدول المتغير (غير منتظم )</th>
+               <th>نظام الممتاز</th>
             </tr>
             <tr>
-              <td >15 hours training</td>
+              <td >15 ساعة تدريبية </td>
               <td >1350</td>
               <td >1650</td>
               <td>1800</td>
               <td>4500</td>
             </tr>
             <tr>
-              <td >8 hours training</td>
+              <td >8 ساعات تدريبية </td>
               <td >720</td>
               <td >880</td>
               <td>960</td>
@@ -119,84 +120,91 @@
             </tr>
           </table>
           <hr />
-          <h3>RTA AND AL AHLI CHARGES</h3>
+          <h3>رسوم هيئة الطرق والمواصلات ومركز الاهلى </h3>
           <table border="1" cellspacing="0" cellpadding="0" class="fees-table" width="100%">
             <tr>
-              <th>RTA and al ahli charges</th>
-              <th>15Hrs</th>
-              <th>VIP(15hrs)</th>
-              <th>8hrs</th>
-              <th>VIP(8hrs)</th>
+              <th>رسوم هيئة الطرق والمواصلات ومركز الاهلى</th>
+              <th>15 ساعة </th>
+              <th>نظام الممتاز 15 ساعة </th>
+              <th>8 ساعات</th>
+              <th>نظام الممتاز 8 ساعات</th>
             </tr>
             <tr>
-              <td>RTA AND AL AHLI OPENING TRAINIG FEE</td>
+              <td>رسوم فتح ملف لهيئة الطرق والمواصلات ومركز الاهلى</td>
               <td>620</td>
               <td>1220</td>
               <td>620</td>
               <td>1220</td>
             </tr>
             <tr>
-              <td>LEARNING PERMIT</td>
+              <td>تصريح التعليم</td>
               <td>120</td>
               <td>120</td>
               <td>120</td>
               <td>120</td>
             </tr>
             <tr>
-              <td>DRIVERS HANDBOOK</td>
+              <td>كتاب التدريب</td>
               <td>70</td>
               <td>70</td>
               <td>70</td>
               <td>70</td>
             </tr>
             <tr>
-              <td>THEORY TEST</td>
+              <td>الاختبار النظرى</td>
               <td>330</td>
               <td>330</td>
               <td>330</td>
               <td>330</td>
             </tr>
              <tr>
-              <td>INTERNAL YARD TEST LEVEL (1&2)</td>
+              <td>الاختبار الداخلى المرحلة الاولى والثانية</td>
               <td>330</td>
               <td>330</td>
               <td>330</td>
               <td>330</td>
             </tr>
             <tr>
-              <td>ROAD TEST</td>
+              <td>فحص الطريق</td>
               <td>330</td>
               <td>330</td>
               <td>330</td>
               <td>330</td>
             </tr>
             <tr>
-              <td>DRIVING LICENSE ISSUANCE</td>
+              <td>رسوم خدمة اصدار رخصة القيادة</td>
               <td>270</td>
               <td>270</td>
               <td>270</td>
               <td>270</td>
             </tr>
             <tr>
-              <td>EYE TEST</td>
+              <td>فحص النظر</td>
               <td>150</td>
               <td>150</td>
               <td>150</td>
               <td>150</td>
             </tr>
             <tr>
-              <td>THEORY TRAINING SESSIONS</td>
+              <td>دورات التدريب النظرى</td>
               <td>320</td>
               <td>320</td>
               <td>320</td>
               <td>320</td>
             </tr>
             <tr>
-              <td>ASSESSMENT TEST</td>
+              <td>اختبار تجريبى تقييمى </td>
               <td></td>
               <td></td>
               <td>100</td>
               <td>100</td>
+            </tr>
+            <tr>
+              <td>الفحص التجريبى </td>
+              <td>100</td>
+              <td>150</td>
+              <td>100</td>
+              <td>150</td>
             </tr>
             <tfoot>
               <tr>
@@ -210,156 +218,148 @@
           </table>
         </div>
         <div role="tabpanel" class="tab-pane" id="lectures-details">
-          <h3>Theoretical lectures</h3>
-          <p><strong>After students obtain the Learning permit under the Motor Cycle Category, they will have to attend the Theoretical lectures dealing with topics as followed.</strong></p>
+          <h3>المحاضرات النظرية </h3>
+          <p><strong>بعد حصول الطالب على تصريح التعليم الخاص بفئة الدراجة النارية يجب علية حضور جميع المحاضرات النظرية والتى تتناول المواضيع التالية</strong></p>
           <table border="1" cellpadding="0" cellspacing="0" width="100%" class="fees-table">
             <tr>
-              <th >Number of lectures</th>
-              <th>Subject</th>
+              <th >عدد المحاضرات</th>
+              <th>الموضوع</th>
             </tr>
             <tr>
-              <td>Motorcycle Lecture</td>
-              <td>Traffic signs, and general information about Motorcycle</td>
+              <td>محاضرة الدراجة النارية</td>
+              <td>العلامات المرورية ومعلومات عامة عن الدراجة النارية</td>
             </tr>
             <tr>
-              <td>First lecture</td>
-              <td>Attitude and responsibilities of driver</td>
+              <td>المحاضرة الاولي</td>
+              <td>سلوك ومسئوليات السائق</td>
             </tr>
             <tr>
-              <td>Second lecture</td>
-              <td>Knowledge on Traffic rules and regulations</td>
+              <td>المحاضرة الثانية</td>
+              <td>معرفة قواعد وانظمة السير والمرور</td>
             </tr>
             <tr>
-              <td>Third lecture</td>
-              <td>Characteristics of road users</td>
+              <td>المحاضرة الثالثة</td>
+              <td>خصائص مستخدمى الطريق</td>
             </tr>
             <tr>
-              <td>Fourth lecture</td>
-              <td>Driver Condition</td>
+              <td>المحاضرة الرابعة</td>
+              <td>حالة السائق</td>
             </tr>
             <tr>
-              <td>Fifth lecture</td>
-              <td>The Environment</td>
+              <td>المحاضرة الخامسة</td>
+              <td>بيئة القيادة</td>
             </tr>
             <tr>
-              <td>Sixth lecture</td>
-              <td>Driving on freeways, traffic violations, and    route planning</td>
+              <td>المحاضرة السادسة</td>
+              <td>القيادة فى الطرق السريعة المخالفات المرورية وتخطيط الرحلة </td>
             </tr>
             <tr>
-              <td>Seventh lecture</td>
-              <td>Hazard perception</td>
+              <td>لمحاضرة السابعة</td>
+              <td>تطوير مهارات التنبؤ بالمخاطر وحالات الطوارىء اثناء القيادة </td>
             </tr>
             <tr>
-              <td>Eighth lecture</td>
-              <td>Traffic Accidents case studies and    emergencies</td>
+              <td>المحاضرة الثامنة</td>
+              <td>دراسة حالات لحوادث مرورية وكيف يجب التصرف فى حال الحادث </td>
             </tr>
           </table>
-          <div class="note-bottom"> * Note: student must complete all 8 lectures and the knowledge test before booking practical training. </div>
+         <!--  <div class="note-bottom"> * Note: student must complete all 8 lectures and the knowledge test before booking practical training. </div> -->
         </div>
         <div role="tabpanel" class="tab-pane" id="test-details">
-          <h3>There are total 4 different tests to pass to get driving license.</h3>
+          <h3>تفاصيل الاختبار</h3>
           <table border="1" cellspacing="0" cellpadding="0" width="100%" class="fees-table">
             <tr>
-              <th>Name of the test</th>
-              <th width="200">Test location</th>
-              <th>Take&nbsp;by</th>
-              <th>When</th>
+              <th>اسم الامتحان</th>
+              <th width="200">مكان الإختبار</th>
+              <th>الجهة المشرفة على الإختبار</th>
+              <th>مواعيد الإختبار</th>
             </tr>
             <tr>
-              <td>RTA Knowledge Test / Theory Test</td>
-              <td>Head Office,Al Quoz</td>
-              <td>RTA</td>
-              <td>After attending all the lectures.</td>
+              <td>اختبار المعرفة</td>
+              <td>القوز الصناعية رقم 4</td>
+              <td>هيئة الطرق والمواصلات</td>
+              <td>بعد الانتهاء من ثماني (8) محاضرات نظرية</td>
             </tr>
             <tr>
             <tr>
-              <td>Assessment Test</td>
-              <td>Head Office,Al Quoz</td>
-              <td>RTA</td>
-              <td>After passing Knowledge test. </td>
+              <td>اختبار المعرفة</td>
+              <td>القوز الصناعية رقم 4</td>
+              <td>هيئة الطرق والمواصلات</td>
+              <td>بعد الانتهاء من ثماني (8) محاضرات نظرية </td>
             </tr>
             <tr>
-              <td>RTA level 1&2 (yard)</td>
-              <td>Head Office,Al Quoz</td>
-              <td>ADC</td>
-              <td>After passing knowledge test and completing stage 1 to 4 of practical training.</td>
+              <td>الفحص التجريبي</td>
+              <td>القوز الصناعية رقم 4</td>
+              <td>مركز الاهلي لتعليم قياده السيارات </td>
+              <td>بعد النجاح فى الاختبار  النظرى والانتهاء من جميع الساعات التدريبية العملية</td>
             </tr>
              <tr>
-              <td>RTA Road Test level 3</td>
-              <td>Head Office,Al Quoz</td>
-              <td>RTA</td>
-              <td>fter passing knowledge test, RTA internal test, Assessment test and completing stage 1 to 4, night & highway training.</td>
+              <td>اختبار المرحلة الاولى والثانية الخاص بهيئة الطرق والمواصلات</td>
+              <td>القوز الصناعية رقم 4</td>
+              <td>هيئة الطرق والمواصلات</td>
+              <td>بعد النجاح في الاختبار النظرى والفحص التجريبي والانتهاء من جميع الساعات التدريبية العملية </td>
+            </tr>
+            <tr>
+              <td>اختبار المرحلة الثالثة</td>
+              <td>القوز الصناعية رقم 4</td>
+              <td>هيئة الطرق والمواصلات</td>
+              <td>بعد النجاح في الاختبار النظرى والفحص التجريبي واختبار المرحلة الاولى والثانية  والانتهاء من جميع الساعات التدريبية العملية</td>
             </tr>
           </table>
         </div>
         <div role="tabpanel" class="tab-pane" id="training-details">
-          <h3>Practical Training</h3>
-          <p><strong>Practical training consists of 15hours/8hours practical training vary between internal and external trainings</strong></p>
+          <h3>التدريب العملى </h3>
+          <p><strong>تتكون من 15 ساعة او  8  ساعات تدريبية عملية تتنوع بين التدريب الداخلى والخارجى</strong></p>
           <table border="1" cellpadding="0" cellspacing="0" width="100%" class="fees-table">
             <tr>
-              <th>Stages of practical training</th>
-              <th>Subject</th>
+              <th>مراحل التدريب العملى</th>
+              <th>الموضوع</th>
             </tr>
             <tr>
-              <td>Handling motor cycle</td>
-              <td rowspan="3">Training procedure (within the perimeter of the Institute) and consists of 20 hours practical training
+              <td>التعرف على أجزاء الدارجة النارية</td>
+              <td rowspan="2">التدريب الداخلي (داخل محيط المعهد) ويتكون من المرحلة الاولي عبارة عن (5 ساعات او 3 ساعات) تدريبية عملية
              </td>
             </tr>
             <tr>
-              <td>Understanding parts of rolling stock firearms</td>
+              <td>التحكم والسيطرة</td>
             </tr>
             <tr>
-              <td>Command and control</td>
+              <td>الدوران والانعطاف</td>
+              <td rowspan="2">التدريب الداخلي (داخل محيط المعهد) ويتكون من المرحلة الثانية عبارة عن (5 ساعات او 2 ساعة) تدريبية عملية</td>
             </tr>
             <tr>
-              <td>Rotation and turn</td>
-              <td rowspan="2">Training procedure (within the perimeter of the Institute) and is divided into stage II and consists of (5hours/2hours) share practical training</td>
+              <td>التوقف المفاجىء</td>
             </tr>
             <tr>
-              <td>Sudden stop</td>
+              <td>القيادة فى شوارع مختلفة السرعة </td>
+               <td rowspan="5">التدريب الخارجي (خارج محيط المعهد) ويتكون من (5 ساعات او 3 ساعات) تدريبية عملية</td>
             </tr>
-            <tr>
-              <td>Driving in the streets of different speed</td>
-               <td rowspan="5">Driving in the streets of different speed</td>
-            </tr>
-            <tr>Identify the traffic signals and landlines, controls and commitments traffic</tr>
-            <tr>Rotation or which acute and turns (U shape)</tr>
-            <tr>How to use the path</tr>
-            <tr>Pillion riding practice</tr>
-            <tr>
-            	<td>Training with load (Delivery box)</td>
-            	<td>Able to ride with a load on the following items:
-            		<ul>
-            			<li>Slow left and right turns (2.02)</li>
-            			<li>Slow ride in more than 10 seconds within the lines (2.03)</li>
-            			<li>Turning and speed judgment when negotiating  left and right curves (3.02)</li>
-            			<li>U-turn (3.03)</li>
-            			<li>Quick stop (3.04)</li>
-            			<li>Responding to hazards (4.02 & 4.03)</li>
-            		</ul>
-            	</td>
-            </tr>
+            <tr><td>التعرف على الاشارات المرورية والخطوط الارضية والضوابط والالتزامات المرورية</td></tr>
+            <tr><td>الدوران والانعطافات الحادة او على شكل (U)</td></tr>
+            <tr><td>كيفية استخدام المسار</td></tr>
+            <tr><td>التدريب علي حمل الراكب الخلفي</td></tr>
           </table>
           <hr />
-          <p><strong>Practical training timings</strong></p>
+          <p><strong>أوقات التدريب العملي خلال أيام الاسبوع:-</strong></p>
           <table border="1" cellspacing="0" cellpadding="0" width="100%" class="fees-table">
             <tr>
-              <th>Days</th>
-              <th>Type</th>
-              <th>Times</th>
+              <th>الايام</th>
+              <th>صنف المركبة </th>
+              <th>الاوقات</th>
             </tr>
             <tr>
-              <td>Saturday – Thursday
+              <td>من السبت الى الخميس
                 </td>
-              <td rowspan="2">Motorcycle</td>
-              <td>  8:30 am to 2:30 pm<br>
-					3:30 pm to 5:30 pm
+              <td rowspan="2">الدراجة النارية</td>
+              <td> من 8:30صباحا الى 2:30 ظهرا<br/> 
+من  3:30مساء الى 5:30 مساء
+
 					</td>
             </tr>
             <tr>
-              <td>Fridays</td>
-              <td>  7:00 am to 12:00 pm<br>
-                    2:00 pm to 5:00 pm
+              <td>ايام الجمعة </td>
+              <td>  من 7:00 صباحا الى 12:00 مساء<br/>
+من 2:00 مساء الى 5:00 مساء
+
 					</td>
             </tr>
           </table>

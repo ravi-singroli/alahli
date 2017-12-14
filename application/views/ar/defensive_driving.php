@@ -2,8 +2,8 @@
   <!--KODE BANNER WRAP START-->
   <div class="kode_top_banner_wrap desert-banner desert-banner-defance">
     <div class="top-banner-content ">
-      <h2>Defensive Driving </h2>
-      <div class="kode_breadcrumbs"><a href="/" title="God Grace" class="godgrace-bc-trail-begin">Home</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">DEFENSIVE DRIVING</span>
+      <h2>القيادة الدفاعية </h2>
+      <div class="kode_breadcrumbs"><a href="/" title="God Grace" class="godgrace-bc-trail-begin">الصفحة الرئيسية</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">القيادة الدفاعية</span>
         <div class="clear"></div>
       </div>
       <div class="clearfix"></div>
@@ -15,47 +15,47 @@
   <!--CONTAINER STRAT-->
   <div class="container">
     <div class="section_hdg hdg_2 hdg_3">
-      <h3>Commencement of Training</h3>
+      <h3>المشاركة في التدريب  </h3>
       <span><i class="fa fa-road" aria-hidden="true"></i></span></div>
     <!--ROW STRAT-->
     <div class="section-tab"> 
       <!-- Nav tabs -->
       <ul class="nav nav-tabs" role="tablist">
-        <li role="presentation" class="active"><a href="#course-info" aria-controls="home" role="tab" data-toggle="tab"><i class="fa fa-book" aria-hidden="true"></i> COURSE INFORMATION</a></li>
-        <li role="presentation"><a href="#documents-required" aria-controls="profile" role="tab" data-toggle="tab"><i class="fa fa-file-text" aria-hidden="true"></i> DOCUMENTS  REQUIRED</a></li>
-        <li role="presentation"><a href="#lectures-details" role="tab" data-toggle="tab">LECTURES DETAILS</a></li>
-        <li role="presentation"><a href="#training-details" role="tab" data-toggle="tab"><i class="fa fa-line-chart" aria-hidden="true"></i> TRAINING DETAILS</a></li>
+        <li role="presentation" class="active"><a href="#course-info" aria-controls="home" role="tab" data-toggle="tab"><i class="fa fa-book" aria-hidden="true"></i>معلومات الدورة</a></li>
+        <li role="presentation"><a href="#documents-required" aria-controls="profile" role="tab" data-toggle="tab"><i class="fa fa-file-text" aria-hidden="true"></i> المستندات المطلوبة</a></li>
+        <li role="presentation"><a href="#lectures-details" role="tab" data-toggle="tab">المحاضرات</a></li>
+        <li role="presentation"><a href="#training-details" role="tab" data-toggle="tab"><i class="fa fa-line-chart" aria-hidden="true"></i> تفاصيل التدريب</a></li>
       </ul>
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="course-info">
-          <h3>Defensive Driving Traning</h3>
-          <p>Vehicle Safety training classes help establish a safety culture in driving habits which individuals or employees  themselves help promote proper safety procedures. An effective training program can reduce the number of injuries and deaths and also help in increasing the productivity of a company or an organization by helping in smoothing out the day to day operations of the workplace. </p>
-          <p>Less accident less delays, more production and finally be an informed and pro-active driver.</p>
+          <h3>القيادة الوقائية </h3>
+          <p>تعتبر دورة القيادة الوقائية للحفاظ على سلامة المركبات من العوامل الاساسية لبناء ثقافة السلامة فى عادات القيادة والتى بدورها يسعى الافراد والموظفون على تعزيز اجراءات السلامة المناسبة . وذلك من خلال برنامج التدريب الفعال الذى يقلل من عدد الاصابات والوفيات ويساعد ايضا فى انتاجية شركة او منظمة من خلال المساعدة في تسهيل العمليات اليومية فى مكان العمل. </p>
+          <p>أقل حادث أقل التأخير، المزيد من الإنتاج وأخيرا يكون على علم السائق واستباقيتة.</p>
           <hr />
-          <h3>General Benefits of Defensive Driving Training</h3>
+          <h3>الفوائد العامة لدورة القيادة الدفاعية:</h3>
           <ul class="disc">
-            <li>Lessen car accidents and losses based accordingly</li>
-            <li>Lessen Vehicles Check-ups</li>
-            <li>Eco-Friendly Use of Petrol for vehicles</li>
-            <li>Teach Vehicle Care Basics</li>
-            <li>Reduce the occurrence if accidents </li>
-            <li>Reduce the cost of maintenance and fuel consumption</li>
-            <li>Knowledge on first-aid when an accident occurs</li>
-            <li>Avoid feelings of anger on the road and risks while driving</li>
-            <li>How to take better care for the vehicle</li>
-            <li>Interaction with the situation and traffic signals</li>
+            <li>خفض نسبة الحوادث والتكاليف المترتبة عليها</li>
+            <li>تقليل عدد زيارات المركبة لورش الصيانة</li>
+            <li>ترشيد إستهلاك الوقود</li>
+            <li>كيفية العناية بالمركبة</li>
+            <li>الاسعافات الاولية عند وقوع حادث مرور</li>
+            <li>مشاعر الغضب على الطريق و تقييم المخاطر اثناء القيادة</li>
+            <li>كيفية العناية بالمركبة</li>
+            <li>التفاعل مع الحوادث واشارات المرور</li>
+            <li>الاسعافات الاولية</li>
+           <!--  <li>Interaction with the situation and traffic signals</li> -->
           </ul>
         </div>
         <div role="tabpanel" class="tab-pane" id="documents-required">
           <div class="row">
             <div class="col-md-6">
-              <h3>Required documents for Defensive Driving Training- Dubai VISA only</h3>
+              <h3>المستندات المطلوبة للحصول على رخصة القيادة الوقائية – الاقامة دبى  </h3>
               <ul class="list2">
-                <li>2 Copies of Passport & VISA </li>
-                <li>2 photos (white background)</li>
-                <li>Original Emirates ID with copy
-                </li>
+                <li>نسختين من جواز السفر متاح ونسختين من الاقامة  </li>
+                <li>صورتين حجم صورة جواز السفر</li>
+                <li>اصل الهوية الاماراتية ونسخة عنها</li>
+                <li>رخصة قيادة اماراتية متاحة </li>
               </ul>
             </div>
           </div>
@@ -177,70 +177,70 @@
           </table>
         </div> -->
         <div role="tabpanel" class="tab-pane" id="lectures-details">
-          <h3>Theoretical lectures</h3>
-          <p><strong>Consists of two Theory lectures</strong></p>
+          <h3>البدء فى عملية التدريب </h3>
+          <p><strong>المحاضرات النظرية :- وهي عبارة عن (٢) محاضرة نظرية تتشتمل على :</strong></p>
           <table border="1" cellpadding="0" cellspacing="0" width="100%" class="fees-table">
             <tr>
-              <th >Number of lectures</th>
-              <th>Subject</th>
+              <th >عدد المحاضرات</th>
+              <th>الموضوع</th>
             </tr>
             <tr>
-              <td>First lecture</td>
-              <td>Identify the traffic signals and landlines, controls and commitments traffic.</td>
+              <td>المحاضرة الاولي</td>
+              <td>التعرف على الاشارات المرورية والخطوط الارضية والضوابط والالتزامات المرورية</td>
             </tr>
             <tr>
-              <td>Second lecture</td>
-              <td>First Aid</td>
+              <td>المحاضرة الثانية</td>
+              <td>الاسعافات الاولية</td>
             </tr>
           </table>
         </div>
         <div role="tabpanel" class="tab-pane" id="training-details">
-          <h3>Practical Training</h3>
+          <h3>التدريب العملي : وهو عباره عن عدة مراحل كالاتي </h3>
           <table border="1" cellpadding="0" cellspacing="0" width="100%" class="fees-table">
             <tr>
-              <th>Stages of practical training</th>
-              <th>Subject</th>
+              <th>مراحل التدريب العملي</th>
+              <th>الموضوع</th>
             </tr>
             <tr>
-              <td>First stage</td>
-              <td>Lessen car accidents and losses based accordingly.
+              <td>المرحلة الاولي</td>
+              <td>خفض نسبة الحوادث والتكاليف المترتبه عليها
              </td>
             </tr>
              <tr>
-              <td>Second stage</td>
-              <td>Lessen Vehicles Check-ups Eco-Friendly Use of Petrol for vehicles.
+              <td>المرحلة الثانية</td>
+              <td>خفض تكلفة الصيانة ، والاقتصاد في إستهلاك الوقود
              </td>
             </tr>
              <tr>
-              <td>Third stage</td>
-              <td>Lessen stress on roads and well examination of risk.
+              <td>المرحلة الثالثة</td>
+              <td>مشاعر الغضب على الطريق ، وتقييم المخاطر أثناء القيادة
              </td>
             </tr>
             <tr>
-              <td>Fourth stage</td>
-              <td>Teach Vehicle Care Basics</td>
+              <td>المرحلة الرابعة</td>
+              <td>كيفية العناية بالمركبة</td>
             </tr>
             <tr>
-              <td>Fifth stage</td>
-              <td>Well reaction with accidents</td>
+              <td>المرحلة الخامسة</td>
+              <td>التفاعل مع الحوادث</td>
             </tr>
             <tr>
-            <td>Sixth stage</td>
-            <td>Turn on well the vehicle during emergencies</td>
+            <td>المرحلة السادسة</td>
+            <td>تشغيل المركبة أثناء الطوارئ</td>
             </tr>
           </table>
           <hr />
-          <p><strong>Practical training timings</strong></p>
+          <p><strong>اوقات التدريب</strong></p>
           <table border="1" cellspacing="0" cellpadding="0" width="100%" class="fees-table">
             <tr>
-              <th>Weekdays</th>
-              <th>Vehicle Type</th>
-              <th>Times</th>
+              <th>أيام الاسبوع</th>
+              <th>صنف المركبة</th>
+              <th>الاوقات</th>
             </tr>
             <tr>
-              <td>Complete Training Day</td>
-              <td>All Types</td>
-              <td>  9:00 AM – 5:00 PM</td>
+              <td>يوم تدريب كامل</td>
+              <td>جميع الفئات</td>
+              <td>9:00 ص – 5:00 م</td>
             </tr>
           </table>
           </div>

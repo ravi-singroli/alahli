@@ -3,7 +3,7 @@
   <div class="kode_top_banner_wrap desert-banner desert-banner-lightbus">
     <div class="top-banner-content ">
       <h2>ضوء الحافلة القيادة</h2>
-      <div class="kode_breadcrumbs"><a href="/" title="God Grace" class="godgrace-bc-trail-begin">Home</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">LIGHT BUS DRIVING</span>
+      <div class="kode_breadcrumbs"><a href="/" title="God Grace" class="godgrace-bc-trail-begin">الصفحة الرئيسية</a> <span class="godgrace_bc_sep"><i class="fa fa-angle-right"></i></span> <span class="godgrace-bc-trail-end">ضوء الحافلة القيادة</span>
         <div class="clear"></div>
       </div>
       <div class="clearfix"></div>
@@ -31,7 +31,7 @@
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="course-info">
-          <h3>3-فئة الحافلات الخفيفة (الباصات):</h3>
+          <h3>فئة الحافلات الخفيفة (الباصات)</h3>
           
 <p>تؤهل دورة تعلم قيادة الحافلة الخفيفة الطالب للخضوع لاختبار القيادة الخاصة بشرطة المرور وتمكنهم من الحصول على رخصة قيادة من الفئة 5. الطلاب اللذين يكملون هذا التدريب ويجتازون إختبارات القيادة الخاصة بشرطة المرور يكونون مؤهلين لقيادة حافلات الركاب. السن المصرح به للطالب يجب أن يكون 20 عاما أو أكثر.</p>
 <p>إن مضمون هذه الدورة هو نفس المضمون التقني الموجود في الدورات الأخرى مع وجود إضافة لمواضيع تتعلق بالتأكيد على سلامة الركاب . وينبغي على السائق ضمان سلامة الركاب خصوصاً الاطفال حيث يتوجب عليه التأكد من جلوس الأطفال على المقاعد ونزولهم وصعودهم بشكل سليم . كما ينبغي على السائق معرفة مايتوجب عليه فعله في حالات الطوارئ مثل الحرائق أو الحوادث.</p>

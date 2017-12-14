@@ -3,6 +3,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<link rel="shortcut icon" href="assets/images/logo-2.png" type="image/png"/>
 <title><?php echo CV_PROJECT_NAME; ?> | <?php echo $title; ?></title>
 
 <link rel="shortcut icon" href="<?php echo base_url("favicon.ico")?>" />

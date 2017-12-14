@@ -8,14 +8,8 @@
         <h4 class="widget_title"><?php echo CV_PROJECT_NAME; ?> driving center</h4>
           <p></p>
           <ul class="widget_call_info">
-            <li> 
-            	<table cellpadding="0" cellspacing="0" class="tbl-footer">
-                	<tr>
-                    	<td width="50%" valign="top"><a href="https://www.google.com/maps?ll=25.12108,55.225868&z=17&t=m&hl=en-GB&gl=AE&mapclient=embed&cid=1430902130531609116" target="_blank"><i class="fa fa-map-marker"></i>Al Quoz, Industrial 4 Street No. 19A<br> Road No. 318 Al Quoz - Dubai</a></td>
-                        <td valign="top"><a href="https://www.makani.ae/desktop/?lang=E"> <img src="<?php echo base_url("assets/images/makani-icon.gif"); ?>" alt=""></a></td>
-                    </tr>
-                </table>
-            </li>
+            <li> <a href="https://www.google.com/maps?ll=25.12108,55.225868&z=17&t=m&hl=en-GB&gl=AE&mapclient=embed&cid=1430902130531609116" target="_blank"><i class="fa fa-map-marker"></i>Al Quoz, Industrial 4 Street No. 19A<br> Road No. 318 Al Quoz - Dubai</a>
+			<a href="https://www.makani.ae/desktop/?lang=E" target="_blank"> <img src="<?php echo base_url("assets/images/makani-icon.gif"); ?>" alt=""></a></li>
             <li><a href="#"><div class="row"><div class="col-xs-6"><i class="fa fa-phone"></i>Tel </div><div class="col-xs-6">04-3411500</div></div></a></li>
             <li><a href="#"><div class="row"><div class="col-xs-6"><i class="fa fa-fax"></i>Fax</div><div class="col-xs-6"> 04-3411511</div></div></a></li>
             <li><a href="#"><div class="row"><div class="col-xs-6"><i class="fa fa-phone-square"></i>Call center</div><div class="col-xs-6"> 800-252454</div></div></a></li>
