@@ -89,8 +89,9 @@ class Home extends CI_Controller
 		}
 		
 		$data['title'] = "Contact Us";
-		$data['body'] = "front/contact_us";
-		$this->load->view('front/layouts/main',$data);
+		$data['body'] = CV_ARABIC_LANG."/contact_us";
+		$this->load->view(CV_ARABIC_LANG.'/layouts/main',$data);
+		
 	}
 	
 	public function get_in_touch() 
