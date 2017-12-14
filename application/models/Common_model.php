@@ -16,6 +16,20 @@ class Common_model extends CI_Model
 
     }	
 
+    public function is_valid_admin_user($uname, $pass)
+
+	{
+
+		$this->db->select("*");
+
+		$this->db->from("admin");
+
+		$this->db->where(array("password"=>$pass, "email_id"=>$uname, "status"=>CV_STATUS_ACTIVE));
+
+		return $this->db->get()->row_array();
+
+	}
+
 	public function update_data($table, $condition, $data)
 
 	{
@@ -116,87 +130,5 @@ class Common_model extends CI_Model
 		$this->email->clear();
 
 	}	
-
-	
-
-	public function send_sms($mobile_no="",$message="")
-
-	{
-
-		if(($mobile_no) and ($message))
-
-		{
-
-			$message = str_replace(' ', '%20', $message);
-
-			
-
-			$curl = curl_init();
-
-			curl_setopt_array($curl, array(
-
-			  CURLOPT_URL => "http://trans.smsfresh.co/api/sendmsg.php?user=ripsrewa&pass=ripsrewa&sender=RIPSCH&phone=".$mobile_no."&text=".$message."&priority=ndnd&stype=normal",
-
-			  CURLOPT_RETURNTRANSFER => true,
-
-			  CURLOPT_ENCODING => "",
-
-			  CURLOPT_MAXREDIRS => 10,
-
-			  CURLOPT_TIMEOUT => 30,
-
-			  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-
-			  CURLOPT_CUSTOMREQUEST => "GET",
-
-			  CURLOPT_HTTPHEADER => array(
-
-				"cache-control: no-cache",
-
-				"postman-token: c2f596bf-56b4-7136-3967-11133c462e55"
-
-			  ),
-
-			));
-
-			
-
-			$response = curl_exec($curl);
-
-			//$err = curl_error($curl);			
-
-			curl_close($curl);
-
-			
-
-			/*if ($err) {
-
-			  echo "cURL Error #:" . $err;
-
-			} else {
-
-			  echo $response;
-
-			}*/
-
-		}
-
-	}   
-
-	
-
-	public function get_dashboard_statics_dtls() 
-
-	{
-
-		$this->db->select("COUNT(*) as total_districts, (select count(*) from blocks where blocks.status=".CV_STATUS_ACTIVE.") as total_blocks, (select count(*) from gram_panchayats where gram_panchayats.status=".CV_STATUS_ACTIVE.") as total_panchayats, (select count(*) from villages where villages.status=".CV_STATUS_ACTIVE.") as total_villages, (select count(*) from habitations where habitations.status=".CV_STATUS_ACTIVE.") as total_habitations, (select count(*) from reports) as total_reports, (select count(*) from reports where reports.status=2) as total_approved_reports, (select count(*) from reports where reports.status=3) as total_published_reports, (select count(*) from labs where labs.status=".CV_STATUS_ACTIVE.") as total_labs");		
-
-        $this->db->from("districts");
-
-		$this->db->where(array("districts.status"=>CV_STATUS_ACTIVE));
-
-		return $this->db->get()->row_array();		
-
-	}  
 
 }
