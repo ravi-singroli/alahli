@@ -103,7 +103,7 @@ setTimeout(function(){
 <script src="<?php echo base_url("assets/js/waypoints-min.js"); ?>"></script> 
 <!--CUSTOM JavaScript--> 
 <script src="<?php echo base_url("assets/js/custom.js"); ?>"></script>
-<script src="<?php //echo base_url("assets/js/scripts.minified.js"); ?>"></script> 
+<script src="<?php echo base_url("assets/js/scripts.minified.js"); ?>"></script> 
 <script src="<?php echo base_url("assets/js/main.js"); ?>"></script>
 <script src="<?php echo base_url("assets/js/jquery.contact-buttons.js"); ?>"></script>
 <script src="<?php echo base_url("assets/js/sidesocial.js"); ?>"></script>
