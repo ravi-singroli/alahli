@@ -28,6 +28,10 @@
 <link rel="stylesheet" href="<?php echo base_url("assets/css/color.css"); ?>">
 <link rel="stylesheet" href="<?php echo base_url("assets/css/contact-buttons.css"); ?>">
 <link rel="stylesheet" href="<?php echo base_url("assets/css/responsive.css"); ?>">
+<link rel="stylesheet" href="<?php echo base_url("assets/css/mobile-480.css"); ?>" media="only screen and (max-width:480px)">
+<link rel="stylesheet" href="<?php echo base_url("assets/css/mobile-767.css"); ?>" media="only screen and (max-width:767px)">
+<link rel="stylesheet" href="<?php echo base_url("assets/css/mobile-940.css"); ?>" media="only screen and (max-width:940px)">
+<link rel="stylesheet" href="<?php echo base_url("assets/css/mobile-991.css"); ?>" media="only screen and (max-width:991px)">
 <style>
 .primary-nav {
     float: right;

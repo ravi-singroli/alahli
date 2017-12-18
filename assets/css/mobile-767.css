@@ -1,0 +1,682 @@
+
+@media (max-width: 767px) {
+	.topf-ico {
+    
+    left: 50%; 
+    margin-left: -42px;
+}
+	.owl-home .item{
+		height:420px;
+	}
+.owl-home .abbu-contnt div{
+		padding:25px;
+		text-align:center
+	}
+	.koed_banner_btn, .kode_banner_wrap{
+		overflow:hidden
+	}
+.kode_top_wrap .col-md-6 {
+	width: 100%;
+}
+.kode_top_info {
+	float: left;
+	width: auto;
+}
+.kode_top_info > ul > li {
+	padding: 0 9px;
+}
+.top_time_circle ul li {
+	margin-left: 14px;
+}
+.kode_mosque_des:last-child {
+	display: block;
+}
+.kode_banner_wrap .bx-wrapper img {
+	height: 400px;
+}
+.kode_banner_wrap .bx-viewport {
+	height: auto;
+}
+.kode_mosque_row {
+	margin-bottom: 40px;
+}
+.kode_mosque_text {
+	text-align: center;
+}
+.kode_mosque_text .section_hdg img {
+	display: block;
+	float: none;
+	margin: auto;
+}
+.kode_pillars_row {
+	width: 380px;
+}
+.kode_pillars_text > p {
+	display: none;
+}
+.kode_pillars_text {
+	padding: 12px 15px 13px;
+	width: 235px;
+}
+.kode_pillars_item li a {
+	width: 90px;
+	height: 90px;
+	padding: 15px 0;
+}
+.kode_pillars_item li a h6 {
+	font-size: 14px;
+}
+.kode_pillars_text::before {
+	left: -88px;
+	right: -85px;
+	top: -122px;
+}
+.right_center, .left_center {
+	bottom: 180px;
+	left: 14px;
+	position: absolute;
+	z-index: 9999;
+}
+.right_center {
+	right: 14px;
+	left: auto;
+}
+.right_center:after,  .left_center:after {
+	top: 11px;
+}
+.center:after {
+	right: 47px;
+	top: 92px;
+}
+.right_bottom {
+	left: auto;
+	right: -40px;
+}
+.left_bottom {
+	left: -40px;
+}
+.left_bottom:after {
+	bottom: -17px;
+	left: auto;
+	right: -62px;
+}
+.right_bottom:after {
+	left: -57px;
+}
+.kode_pray_text {
+	text-align: center;
+}
+.kode_pray_text h2 {
+	font-size: 30px;
+}
+.kode_gallery3_wrap .slick-prev, .kode_gallery3_wrap .slick-next {
+	bottom: -250px;
+}
+.kode_team_wrap {
+	padding: 80px 0px 120px;
+}
+.kode_team_wrap .slick-prev,  .kode_team_wrap .slick-next {
+	bottom: -280px;
+	left: -55px;
+	margin: auto;
+	right: 0;
+	text-align: center;
+}
+.kode_team_wrap .slick-next {
+	right: -100px;
+}
+.kode_cause_des {
+	padding: 40px 12px;
+}
+.kode_donate_des {
+	padding: 27px 20px 33px;
+}
+.kode_amount_list > span:last-child {
+	display: none;
+}
+.kode_amount_list span {
+	margin-right: 4px;
+}
+.radio_points li {
+	margin-right: 10px;
+}
+.kode_blog_fig figure {
+	float: left;
+	width: 100%;
+}
+.kode_client_text p:before,  .kode_client_text p:after {
+	display: none;
+}
+.navigation ul {
+	display: none;
+}
+.navigation .dl-menuwrapper {
+	display: block;
+}
+.navigation .dl-menuwrapper > ul {
+	background-color: #000;
+	display: block;
+	right: 100%;
+}
+.navigation .dl-menuwrapper > ul > li a {
+	color: #fff;
+}
+.navigation .dl-menuwrapper > ul > li a {
+	font-weight: normal;
+}
+.navigation {
+	padding: 5px 0;
+}
+.kode_client_wrap {
+	overflow: hidden;
+}
+.kode_client_wrap .kode_product_list .slick-track {
+	width: 100%;
+}
+.kode_newsletter_des {
+	text-align: center;
+}
+.kode_newsletter_des span {
+	float: none;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+.kode_newsletter_text h5:before {
+	border-bottom: none;
+}
+.kode_newsletter_form .kf_commet_field input,  .kode_newsletter_form .kf_commet_field,  .kode_newsletter_form {
+	width: 100%;
+	float: left;
+}
+/* home page 02 start */
+
+.kode_top2_info {
+	display: none;
+}
+.kode_top2_icon {
+	width: 100%;
+}
+.kode_search_overlay .cp-search-inner {
+	padding-top: 240px;
+	width: 410px;
+}
+.kode_top2_icon .modal-dialog {
+	width: 460px;
+}
+.kode_top2_icon .kode_amount_list span {
+	line-height: 62px;
+	width: 65px;
+	height: 62px;
+}
+.kode_top2_icon .kode_doantion_amount .kf_commet_field {
+	margin-left: 10px;
+}
+.kode_top2_icon .checkbox_radio label {
+	padding-left: 10px;
+}
+.radio_points li {
+	margin-right: 10px;
+}
+.kode_top2_wrap .container {
+	padding: 0px 15px 0px 0px;
+}
+.kode_navi_icon {
+	display: none;
+}
+.kode_banner_wrap.banner2 .slick-prev,  .kode_banner_wrap.banner2 .slick-next {
+	height: 38px;
+	width: 38px;
+	left: 10px;
+}
+.kode_banner_wrap.banner2 .slick-next {
+	left: auto;
+	right: 10px;
+}
+.them_overlay:before {
+	opacity: 0;
+}
+.bann-lft {
+	display: block;
+	width: auto;
+	float: none;
+	margin-top: 0%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+.circl-img {
+	height: auto;
+	margin: 16px auto 5px;
+	position: relative;
+	top: 0;
+	width: 110px;
+}
+.circl-img img {
+	height: auto;
+	width: 227px;
+}
+.abbu-contnt {
+	margin-left: 0;
+	margin-top: 0;
+	text-align: center;
+}
+.abbu-contnt p {/*color: #fff;*/
+	font-size: 15px;
+	line-height: 20px;
+}
+.abbu-contnt h4 {
+	font-size: 26px;/*color: #fff;*/
+
+}
+.form-main h4 {
+	padding: 50px 0 10px;
+}
+.form-main .form-group {
+	margin-bottom: 0px;
+}
+.abbu-contnt span {
+	font-size: 24px;
+	color: #fff;
+}
+.main-bannr-contnt h3 {
+	display: none;
+}
+.bann-rght {
+	float: none;
+	display: none;
+}
+#contact-buttons-bar.slide-on-scroll {
+	z-index: 9;
+	display: none;
+}
+.bann-rght {
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.topf-icoo {
+	display: block;
+	background: #fff;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+.form-main {
+	width: 96%;
+	position: absolute;
+	top: 0;
+	left:100%;
+	margin-top: 52px;
+	-moz-transform: translateX(500px) translateY(0px);
+	-webkit-transform: translateX(500px) translateY(0px);
+	-o-transform: translateX(500px) translateY(0px);
+	-ms-transform: translateX(500px) translateY(0px);
+	transform: translateX(500px) translateY(0px);
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-ms-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+.form-main.open {
+	-moz-transform: translateX(0px) translateY(0px);
+	-webkit-transform: translateX(0px) translateY(0px);
+	-o-transform: translateX(0px) translateY(0px);
+	-ms-transform: translateX(0px) translateY(0px);
+	transform: translateX(0px) translateY(0px);
+	left:2%;
+}
+.main-bannr-contnt {
+	top: 6px;
+}
+.kode_banner_wrap .bx-wrapper {
+	margin-bottom: inherit;
+	margin-top: 0px;
+}
+.kode_banner_wrap.banner2 .slick-prev:before,  .kode_banner_wrap.banner2 .slick-next:before {
+	line-height: 38px;
+}
+.disnon {
+	display: none;
+}
+.mar214 {
+	margin-top: 33px;
+}
+.kode_banner2_des .them_overlay > img {
+	height: 300px;
+}
+.kode_banner2_fig {
+	display: none;
+}
+.kode_banner_wrap.banner2 .kode_banner_text {
+	margin-left: -150px;
+}
+.kode_mosque2_des {
+	margin-bottom: 40px;
+}
+.kode_mosque2_fig .them_overlay:before {
+	transform: skew(-17deg) translate(53px);
+}
+.kode_mosque2_fig figure::after {
+	transform: skew(-17deg) translate(35px);
+}
+.kode_pillars_wrap.pillare_2 .right_center,  .kode_pillars_wrap.pillare_2 .left_center {
+	bottom: 293px;
+	left: -32px;
+}
+.kode_pillars_wrap.pillare_2 .right_center {
+	right: -32px;
+	left: auto;
+}
+.kode_pillars_wrap.pillare_2 .kode_pillars_text {
+	width: 403px;
+	height: 457px;
+}
+.kode_pillars_wrap.pillare_2 .right_bottom,  .kode_pillars_wrap.pillare_2 .left_bottom {
+	left: -20px;
+	right: auto;
+}
+.kode_pillars_wrap.pillare_2 .right_bottom {
+	right: -45px;
+	left: auto;
+}
+.kode_building_des {
+	text-align: center;
+}
+.kode_building_des figure {
+	border-radius: 0;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.kode_gallery_list {
+	width: 49.5%;
+}
+.kode_gallery_list.list_2 {
+	width: 47.5%;
+}
+.kode_gallery_fig.fig_2 {
+	width: 47%;
+}
+.kode_pillars_wrap.pillare_2 .center {
+	top: 158px;
+}
+/* 404 page start */
+
+.kode_404_text h2 span {
+	display: inline-block;
+	font-size: 167px;
+	height: auto;
+	line-height: normal;
+	margin: 0;
+	top: 0;
+	width: auto;
+}
+.kode_404_text h2 span::before {
+	background-image: none;
+}
+.kode_404_text h2 {
+	font-size: 175px;
+	line-height: normal;
+}
+.kode_404_text h3 {
+	font-size: 34px;
+	padding: 10px 30px;
+}
+.kode_404_wrap {
+	padding: 170px 0 180px;
+}
+/* about us page start */
+
+.kode_counter_mosque li {
+	text-align: center;
+}
+.kode_client_text {
+	padding: 15px;
+}
+.widget_event.event_2 {
+	margin-bottom: 20px;
+}
+.kode_tem_fig figcaption p {
+	font-size: 13px;
+}
+.kode_social_icon li {
+	margin-right: 5px;
+}
+/* blog page 02 start */
+
+.kode_blog_des.des_2 .kode_blog_text h4 {
+	font-size: 20px;
+}
+.kode_blog_des.des_2 .kode_meta.meta_2 li a {
+	font-size: 14px;
+}
+.kode_blog_des.des_2 .kode_meta.meta_2 li:last-child {
+	padding-left: 15px;
+}
+/* blog detail page start */
+
+.kode_blog_detail_text h3 {
+	font-size: 20px;
+}
+.kode_blog_detail_text .kode_meta.meta_2 li {
+	line-height: 12px;
+	padding: 0 20px;
+}
+.kode_detail_fig figure {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.kode_blog_madium_wrap.detail .kode_detail_fig_text {
+	padding-left: 0px;
+	width: 100%;
+}
+.kode_detail_fig_text {
+	margin-bottom: 30px;
+}
+.comment_text p,  .quote_text > p {
+	text-align: left;
+}
+.kode_social_share .kode_pagination {
+	display: none;
+}
+.kode_comments .kf_commet_field {
+	width: 46.8%;
+}
+ .kode_comments .kf_commet_field input[type="text"]::-moz-placeholder {
+ color:#999;
+}
+/* coming soon page start */
+
+.kode_coming_text {
+	width: 404px;
+}
+.kode_coming_text h2 {
+	font-size: 25px;
+}
+.countdown.timer li {
+	height: 90px;
+	margin-right: 10px;
+	padding: 18px 0;
+	text-align: center;
+	width: 90px;
+}
+.countdown.timer li h5 {
+	font-size: 16px;
+}
+.kode_coming_text .kode_search {
+	width: 416px;
+}
+/* contact us page start */
+
+.kode_contact_service ul li {
+	margin-right: 2px;
+	width: 156px;
+	padding: 40px 10px;
+}
+.kode_contact_text p span {
+	display: inline;
+}
+.kode_contact_text p {
+	font-size: 12px;
+}
+.kode_contact_text h5 {
+	font-size: 16px;
+}
+/* event page start */
+
+.kode_event_detail li {
+	text-align: center;
+}
+.event_date {
+	float: none;
+	margin: auto;
+	padding-right: 0px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.event_date:before {
+	border: none;
+}
+.kode_calender_list figure {
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.kode_event_detail .kode_calender_list .kode_event_text {
+	padding: 0 0px;
+	width: 100%;
+}
+.kode_event_ticket {
+	width: 100%;
+}
+.event_studium {
+	display: inline;
+}
+.kode_event_ticket .medium_btn {
+	margin-left: 20px;
+}
+/* event detail page start */
+
+.kode_blog_detail_des .kode_calender_detail.detail_2 .kode_event_text p {
+	display: none;
+}
+.kode_blog_detail_des .kode_calender_detail.detail_2 .kode_event_text {
+	padding: 14px 110px 0 20px;
+}
+.kode_detail_fig_text {
+	padding-left: 0;
+	width: 100%;
+}
+.kode_detail_date {
+	padding: 26px 20px;
+}
+.event_detail_list {
+	border-right: none;
+	float: left;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.event_detail_list.list_2 {
+	padding-left: 0px;
+}
+.kode_event_speakar_fig {
+	margin-right: 0px;
+	width: 100%;
+}
+.comment_text {
+	padding-left: 20px;
+}
+.widget_wrap {
+	padding: 60px 0 20px;
+}
+/* event sidebar page start */
+
+.kode_blog_list .kode_blog_text h5 {
+	font-size: 15px;
+}
+/* portfolio page star */
+
+.kode_portfolio_text h6 {
+	font-size: 12px;
+	margin-bottom: 6px;
+}
+/* portfolio 02 page star */
+
+.kode_portfolio_detail ul li a {
+	padding: 8px 10px 10px;
+	font-size: 12px;
+}
+.kode_portfolio_detail ul li {
+	margin-right: 4px;
+}
+/* project page start */
+
+.kode_project_text {
+	padding: 27px 30px 23px;
+}
+.kode_project_dollar a {
+	font-size: 15px;
+}
+.kode_project_text h4 {
+	font-size: 20px;
+}
+/* project 02 page start */
+
+.kode_project_text.text_2 h5 {
+	font-size: 16px;
+}
+.kode_project_text.text_2 {
+	padding: 27px 15px 23px;
+}
+/* project sidebar page start */
+
+.kode_portfolio_des.des_2 .kode_project_text,  .kode_portfolio_des.des_2 figure {
+	width: 100%;
+}
+.kode_portfolio_des.des_2 .kode_project_text p {
+	display: block;
+}
+.kode_portfolio_des.des_2 .kode_project_text {
+	padding: 20px 30px 11px;
+}
+/* service page start */
+
+.kode_blog_madium_wrap.wrap_2.width_res .col-md-4,  .kode_blog_madium_wrap.detail.width_res .col-md-4 {
+	float: left;
+	width: 50%;
+}
+/* service 01 page start */
+
+.kode_comments .kf_commet_field {
+	width: 45.8%;
+}
+ .kode_comments .kf_commet_field input[type="text"]::-moz-placeholder {
+ color:#fff;
+}
+.kode_pricing_des {
+	margin-bottom: 40px;
+}
+.kode_service_form .section_hdg span:before {
+	width: 26px;
+	right: -35px;
+}
+/* shop page start */
+
+.kode_shop_text h6 {
+	font-size: 12px;
+}
+/* team detail page start */
+
+.kode_team_fig {
+	margin-bottom: 40px;
+}
+.kode_side_contact_text a {
+	font-size: 14px;
+}
+.kode_team_wrap {
+	padding: 80px 0 120px;
+}
+.kode_blog_wrap {
+	padding: 80px 0 20px;
+}
+}
+
+

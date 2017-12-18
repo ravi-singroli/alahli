@@ -1,0 +1,373 @@
+/*============	Media 940Px Start ============ */
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+.kode_top_info > ul > li {
+	padding: 0 9px;
+}
+.navigation > ul > li {
+	margin-left: 0px;
+}
+.kode_client_wrap.client_3 .slick-dots {
+	display: none !important;
+}
+.kode_mosque_des {
+	margin-right: 9px;
+}
+.kode_mosque_item p {
+	margin-bottom: 7px;
+}
+.kode_donate_des {
+	padding: 27px 40px 33px;
+}
+.kode_cause_des {
+	padding: 84px 60px;
+}
+.kode_event_text h6 {
+	font-size: 14px;
+}
+.widget_social_icon li {
+	margin-right: 7px;
+}
+.kode_service_text .right_arrow {
+	margin-top: -25px;
+}
+.kode_amount_list span {
+	margin-right: 5px;
+}
+.koed_event_timer figcaption ul li {
+	margin-right: 20px;
+}
+.koed_event_timer figcaption ul li span {
+	font-size: 24px;
+}
+.koed_event_timer figcaption ul li p {
+	font-size: 12px;
+}
+.koed_event_timer figcaption h5 {
+	margin-bottom: 10px;
+}
+.large_text {
+	font-size: 40px;
+}
+.mediume_text {
+	margin-bottom: 10px;
+}
+.small_text {
+	margin-bottom: 18px;
+}
+.large_text:before,  .large_text:after {
+	left: 100px;
+}
+.large_text:before {
+	right: 100px;
+	left: auto;
+}
+.kode_banner_text {
+	margin-top: -170px;
+}
+.small_btn, .medium_btn {
+	padding: 6px 16px 5px;
+}
+.kode_gallery3_wrap .slick-prev,  .kode_gallery3_wrap .slick-next {
+	bottom: -320px;
+	left: -55px;
+	margin: auto;
+	right: 0;
+	text-align: center;
+}
+.kode_gallery3_wrap .slick-next {
+	right: -100px;
+}
+.kode_gallery3_wrap.wrap_2 {
+	padding: 80px 0 130px;
+}
+.kode_team_wrap .slick-prev, .kode_team_wrap .slick-next {
+	bottom: -280px;
+	left: 0;
+	margin: auto;
+	right: 0;
+	text-align: center;
+}
+.kode_team_wrap .slick-next.slick-arrow {
+	right: -60px;
+}
+.kode_team_wrap .slick-prev, .kode_team_wrap .slick-next {
+	right: 50px;
+}
+.kode_team_wrap {
+	padding: 80px 0 130px;
+}
+.kode_pray_fig figure {
+	margin-top: 10px;
+}
+.kode_amount_list span {
+	height: 55px;
+	width: 55px;
+	line-height: 55px;
+}
+.kode_doantion_amount .kf_commet_field {
+	width: 32%;
+	margin-bottom: 0px;
+}
+.kode_doantion_amount .kf_commet_field input {
+	width: 100%;
+	height: 55px;
+}
+.checkbox_radio label {
+	padding-left: 13px;
+}
+.radio_points li {
+	margin-right: 12px;
+}
+.kode_cause_des {
+	padding: 84px 18px;
+}
+.kode_product_list {
+	margin-top: 100px;
+}
+/* home page 02 */
+
+.kode_top2_info li {
+	padding: 11px 11px 9px;
+}
+.kode_top2_icon > ul > li {
+	padding: 20px 15px 16px;
+}
+.kode_top2_info {
+	width: 60%;
+}
+.kode_top2_icon {
+	width: 37%;
+}
+.header .navigation > ul > li {
+	margin-left: 10px;
+}
+.header .top_logo {
+	margin-right: 20px;
+}
+.kode_navi_icon li {
+	margin-right: 6px;
+}
+.kode_banner2_fig {
+	left: 60%;
+	width: 30%;
+}
+.kode_banner_wrap.banner2 .kode_banner_text {
+	margin-left: -380px;
+}
+.kode_gallery_fig.fig_2 {
+	width: 48.7%;
+}
+.kode_gallery_list {
+	float: left;
+	width: 50%;
+}
+.kode_calender_detail.detail_2 .kode_event_text h4 {
+	font-size: 16px;
+}
+.kode_calender_detail.detail_2 .kode_event_text p {
+	font-size: 12px;
+}
+/* 404 page start */
+
+.kode_404_text h2 {
+	font-size: 345px;
+}
+.kode_404_wrap {
+	padding: 270px 0 280px;
+}
+/* about us page start */
+
+.kode_counter_mosque {
+	margin-bottom: 26px;
+}
+.kode_Philosophy_wrap .slick-dots {
+	width: 130px;
+}
+.kode_team_wrap .slick-prev, .kode_team_wrap .slick-next {
+	bottom: -370px;
+}
+.kode_client_text p:before {
+	right: 56px;
+}
+.kode_mosque_des:last-child {
+	display: block;
+}
+.kode_mosque_des {
+	margin-bottom: 20px;
+}
+/* blog 02 page start */
+
+.kode_blog_des.des_2 .kode_blog_text h4 a,  .kode_blog_des.des_2 .kode_blog_text h4 a span {
+	display: inline;
+}
+.kode_blog_des.des_2 .kode_blog_text h4 {
+	padding: 0 20px 15px;
+}
+.kode_blog_des.des_2 .kode_blog_caption {
+	padding: 15px 20px 0;
+}
+.kode_blog_des.des_2 .kode_meta.meta_2 li a {
+	font-size: 13px;
+}
+.kode_blog_des.des_2 .kode_meta li a i {
+	margin-right: 6px;
+}
+.kode_blog_des.des_2 .kode_blog_text .share_link {
+	right: 20px;
+}
+/* blog detail page start */
+
+.donate_btn {
+	padding: 11px 0 9px;
+}
+.kode_blog_detail_text h3 {
+	font-size: 25px;
+}
+.kode_comments .kf_commet_field {
+	width: 47.7%;
+}
+/* coming soon page start */
+
+.kode_coming_soon_wrap {
+	padding: 290px 0;
+}
+/* event page start */
+
+.kode_event_detail li {
+	padding: 25px 20px;
+}
+.event_date {
+	padding-right: 20px;
+}
+.kode_event_detail .kode_calender_list .kode_event_text {
+	padding: 0px 0px 0px 20px;
+}
+.event_studium {
+	display: none;
+}
+.kode_event_ticket .medium_btn {
+	margin-left: 10px;
+}
+.kode_event_detail .kode_calender_list .kode_event_text h4 {
+	font-size: 18px;
+}
+.kode_event_ticket {
+	float: right;
+	padding: 29px 0;
+}
+/* event detail page start */
+
+.kode_detail_fig_text p:last-child {
+	display: none;
+}
+.event_detail_list.list_2 {
+	padding-left: 23px;
+}
+.kode_event_speaker_text {
+	margin-left: 20px;
+	padding: 16px 0 4px 20px;
+}
+.sidebar_add figcaption {
+	padding: 30px 0;
+}
+.kode_coming_event_text h5 {
+	font-size: 16px;
+}
+.kode_event_speakar_fig {
+	margin-right: 20px;
+}
+/* event sidebar page start */
+
+.kode_blog_text {
+	padding: 17px 28px 18px 30px;
+}
+/* portfolio page start */
+
+.kode_portfolio_text h6 {
+	font-size: 12px;
+	margin-bottom: 6px;
+}
+/* portfolio 02 page start */
+
+.kode_portfolio_text h4 {
+	font-size: 18px;
+}
+/* project page start */
+
+.kode_project_text h4 {
+	font-size: 17px;
+}
+.kode_project_text {
+	padding: 27px 15px 23px;
+}
+.kode_project_dollar a {
+	font-size: 12px;
+}
+.kode_project_text h4 {
+	font-size: 13px;
+}
+/* project 02 page start */
+
+.kode_project_text h5 {
+	font-size: 16px;
+}
+/* project detail page start */
+
+.kode_donors_text h5 {
+	font-size: 17px;
+}
+/* project sidebar page start */
+
+.kode_portfolio_des.des_2 .kode_attorney_detail_skill .bar {
+	width: 180px !important;
+}
+.kode_portfolio_des.des_2 .kode_project_text h4 {
+	margin-bottom: 20px;
+}
+.kode_portfolio_des.des_2 .kode_project_dollar {
+	margin-bottom: 5px;
+}
+.kode_attorney_detail_skill .progressbar {
+	margin: 0 auto 10px;
+}
+.kode_portfolio_des.des_2 .kode_project_text p {
+	margin-bottom: 10px;
+}
+.kode_portfolio_des.des_2 .kode_project_text {
+	padding: 20px 30px 20px;
+}
+/* service page start */
+
+.kode_service_text h4 {
+	font-size: 16px;
+}
+/* service 01 page start */
+
+.kode_service_form {
+	padding: 75px 30px 80px;
+}
+.kode_comments .kf_commet_field {
+	margin-right: 10px;
+}
+.kode_service_search_feild {
+	background-size: cover;
+	background-image: url("../images/service_bg1.png");
+}
+/* service detail page start */
+
+.kode_event_text.text_2 h6 {
+	font-size: 11px;
+}
+.siderbar_categories {
+	padding: 27px 20px 30px;
+}
+.kode_text_list {
+	display: none;
+}
+/* team detail page start */
+
+.kode_team_fig .siderbar_categories a {
+	font-size: 12px;
+}
+}

@@ -1,0 +1,560 @@
+
+
+/*============ Media 480Px Star ============ */
+
+@media (max-width: 480px) {
+.kode_top_right_text {
+	display: none;
+}
+.top_time_circle ul li {
+	height: 53px;
+	width: 53px;
+	padding: 10px 0;
+	margin-left: 2px;
+}
+.kode_portfolio_text h4,  .kode_portfolio_text h6 {
+	font-size: 18px;
+}
+.kode_portfolio_detail ul li {
+	margin-bottom: 12px;
+}
+.top_time_circle ul li span, .top_time_circle ul li a {
+	font-size: 10px;
+}
+.mediume_text {
+	display: none;
+}
+.kode_banner_text {
+	margin-top: -80px;
+	margin-left: -247px;
+}
+.large_text {
+	font-size: 36px;
+	margin-bottom: 17px;
+}
+.large_text:after {
+	left: 113px;
+}
+.kode_mosque_des:last-child {
+	display: block;
+}
+.section_hdg span:after, .section_hdg span:before {
+	width: 28px;
+	right: -36px;
+}
+.kode_gallery3_wrap.wrap_2 {
+	padding: 80px 0;
+}
+.kode_counter_mosque li span {
+	width: 62px;
+	height: 62px;
+	line-height: 56px;
+	font-size: 20px;
+}
+.kode_counter_mosque li h6 {
+	font-size: 12px;
+}
+.kode_pillars_wrap.them_overlay {
+	display: none;
+}
+.kode_mosques_wrap {
+	padding: 8px 0 0;
+}
+.kode_pray_text p {
+	padding: 0px 0px;
+}
+.kode_pray_text h2 {
+	font-size: 25px;
+}
+.kode_pray_text {
+	padding: 80px 0;
+}
+.kode_gallery3_fig.fig_2,  .kode_gallery3_des {
+	width: 100%;
+	margin: 0px 0px;
+}
+.kode_gallery3_fig.fig_2 {
+	margin-bottom: 5px;
+}
+.section_hdg.hdg_2.hdg_3 h3 {
+	font-size: 25px;
+}
+.kode_gallery3_wrap .slick-prev, .kode_gallery3_wrap .slick-next {
+	display: none !important;
+}
+.kode_canvas_detail {
+	padding-right: 10px;
+}
+.kode_canvas_text {
+	padding-left: 20px;
+}
+.kode_doantion_amount .kf_commet_field input,  .kode_doantion_amount .kf_commet_field {
+	width: 100%;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+.kode_doantion_amount {
+	text-align: center;
+}
+.kode_amount_list {
+	width: 100%;
+}
+.kode_amount_list span {
+	display: inline-block;
+	float: none;
+}
+.radio_points li {
+	margin-bottom: 15px;
+}
+.kode_blog_text {
+	padding: 18px 20px 17px;
+}
+.kode_meta.meta_2 li {
+	padding: 0 11px;
+}
+.koed_event_timer figcaption ul li {
+	margin-right: 20px;
+}
+.koed_event_timer figcaption ul li span {
+	font-size: 25px;
+}
+.koed_event_timer figcaption h5 {
+	margin-bottom: 6px;
+}
+.kode_newsletter_des {
+	text-align: center;
+	border-right: none;
+}
+.kode_newsletter_des span {
+	float: none;
+	margin-bottom: 10px;
+}
+.kode_newsletter_text {
+	padding-left: 0px;
+}
+.kode_newsletter_text h5:before {
+	border: none;
+}
+.kode_newsletter_form .kf_commet_field {
+	position: relative;
+}
+.kode_newsletter_form {
+	float: left;
+	padding: 22px 0 23px;
+	width: 100%;
+}
+.kode_newsletter_form .kf_commet_field,  .kode_newsletter_form .kf_commet_field input {
+	width: 100%;
+}
+.kode_newsletter_form .kf_commet_field button {
+	position: absolute;
+	top: 2px;
+	right: 1px;
+	padding: 8px 11px;
+}
+.kode_cause_des {
+	padding: 40px 12px 0;
+}
+.widget_call_info li a {
+	font-size: 12px;
+}
+.widget_social_icon li {
+	margin-right: 7px;
+}
+.copyright_text {
+	text-align: center;
+}
+.top_btn {
+	float: none;
+}
+.kode_top_info .open > .dropdown-menu {
+	display: block;
+	left: -47px;
+}
+/* home page 02 start */
+
+.kode_top2_icon li:last-child {
+	display: none;
+}
+.kode_search_overlay .cp-search-inner {
+	width: 290px;
+}
+.kode_top2_icon .modal-dialog {
+	width: 290px;
+}
+.kode_banner_wrap.banner2 .kode_banner_text .large_text {
+	font-size: 20px;
+}
+.donate_btn {
+	padding: 12px 0 9px;
+}
+.koed_banner_btn .small_btn, .koed_banner_btn .medium_btn {
+	font-size: 11px;
+	padding: 5px 9px 4px;
+}
+.kode_banner_wrap.banner2 .kode_banner_text {
+	margin-left: -100px;
+	margin-top: -38px;
+}
+.kode_banner_wrap.banner2 .kode_banner_text .large_text {
+	margin-bottom: 15px;
+}
+.kode_banner2_des .them_overlay > img {
+	height: 220px;
+}
+.koed_banner_btn .border {
+	margin-right: 10px;
+}
+.kode_mosque2_fig .them_overlay::before {
+	transform: skew(-17deg) translate(39px);
+}
+.kode_mosque2_fig figure::after {
+	transform: skewX(-17deg) translate(25px);
+}
+.kode_pillars_wrap.pillare_2 {
+	display: none;
+}
+.kode_gallery_list .kode_gallery_fig figure,  .kode_gallery_list,  .kode_gallery_fig.fig_2,  .kode_gallery_list.list_2 {
+	width: 100%;
+}
+.kode_calender_detail.detail_2 .kode_calender_list {
+	text-align: center;
+}
+.kode_calender_detail.detail_2 .kode_calender_list span {
+	float: none;
+	margin-bottom: 20px;
+}
+.kode_calender_detail.detail_2 .kode_calender_list .kode_event_text {
+	padding-left: 0px;
+}
+.section_hdg > h3 {
+	font-size: 20px;
+}
+.kode_building_text > h3 {
+	font-size: 23px;
+}
+/* 404 page start */
+
+.kode_404_text h2 span {
+	display: inline-block;
+	font-size: 100px;
+	height: auto;
+	line-height: normal;
+	margin: 0;
+	top: 0;
+	width: auto;
+}
+.kode_404_text h2 {
+	font-size: 100px;
+	line-height: normal;
+}
+.kode_404_text h3 {
+	font-size: 24px;
+	padding: 10px 30px;
+}
+.kode_404_wrap {
+	padding: 90px 0;
+}
+.kode_404_text p {
+	font-size: 25px;
+	line-height: 40px;
+}
+/* about us page start */
+
+.kode_team_wrap .slick-prev, .kode_team_wrap .slick-next {
+	bottom: -300px;
+}
+.widget_wrap {
+	padding: 60px 0 20px;
+}
+/* blog page start */
+
+.kode_blog_text h4 {
+	font-size: 18px;
+	line-height: 24px;
+}
+.kode_blog_text h4 span {
+	display: inline;
+}
+.kode_blog_des .kode_blog_text {
+	padding: 27px 20px 30px;
+}
+.kode_meta.meta_2 li {
+	padding: 0 8px;
+}
+.kode_pagination {
+	width: 300px;
+}
+.kode_pagination li a {
+	height: 25px;
+	line-height: 25px;
+	width: 25px;
+	margin-right: 0px;
+}
+/* blog page 02 start */
+
+.kode_blog_des.des_2 .kode_blog_text h4 {
+	font-size: 20px;
+}
+.kode_blog_des.des_2 .kode_meta.meta_2 li a {
+	font-size: 12px;
+}
+.kode_blog_des.des_2 .kode_meta.meta_2 li:last-child {
+	padding-left: 10px;
+}
+.kode_blog_des.des_2 .kode_meta.meta_2 li a i {
+	margin-right: 5px;
+}
+/* blog sidebar page start */
+
+.siderbar_categories {
+	padding: 27px 20px 30px;
+}
+/* blog detail page start */
+
+.sab_banner_text h2 {
+	font-size: 34px;
+}
+.kode_blog_detail_text h3 {
+	font-size: 18px;
+	line-height: 24px;
+	margin-bottom: 6px;
+	text-align: left;
+}
+.kode_blog_detail_row .kode_blog_detail_text .kode_meta.meta_2 li:last-child {
+	display: none;
+}
+.kode_blog_madium_wrap.detail .kode_blog_detail_des p {
+	text-align: center;
+}
+.comment_title,  .comment_text p,  .kode_blog_detail_row > p,  .quote_text p,  .blog_quote {
+	text-align: center;
+}
+.blog_quote {
+	padding: 20px;
+}
+.blog_quote span {
+	float: none;
+	margin-bottom: 15px;
+}
+.quote_text {
+	padding-left: 0px;
+}
+.kode_social_share {
+	padding: 18px 15px 14px;
+}
+.kode_social_share .social_meta li {
+	margin-right: 5px;
+}
+.kode_social_share > a {
+	font-size: 13px;
+}
+.comment_des figure {
+	border-radius: 100%;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.comment_text {
+	padding-left: 1px;
+}
+.comment_text p {
+	margin-bottom: 20px;
+}
+.comment ul {
+	padding-left: 0px;
+}
+.kode_comments .kf_commet_field {
+	width: 100%;
+	margin-right: 0px;
+}
+/* coming soon page start */
+
+.kode_coming_text {
+	width: 274px;
+}
+.countdown.timer li:last-child {
+	margin-right: 10px;
+}
+.countdown.timer li {
+	margin-bottom: 10px;
+}
+.kode_coming_text .kode_search {
+	width: 276px;
+}
+.kode_coming_text .kode_search .kf_commet_field button {
+	width: 110px;
+}
+.coming_social_icon li {
+	margin-right: 13px;
+}
+.coming_social_icon li:last-child {
+	margin-right: 0px;
+}
+.countdown.timer {
+	margin-bottom: 30px;
+}
+.kode_coming_text .progress {
+	margin-bottom: 38px;
+}
+.kode_coming_soon_wrap {
+	padding: 140px 0px;
+}
+/* contact us page start */
+
+.kode_contact_service ul li {
+	margin-right: 0px;
+	width: 100%;
+}
+.kode_contact_text p {
+	font-size: 15px;
+}
+.kode_contact_text h5 {
+	font-size: 20px;
+}
+/* event page start */
+
+.kode_event_detail .kode_calender_list .kode_event_text h4 {
+	font-size: 15px;
+}
+.event_studium {
+	border: none;
+	display: inline-block;
+}
+.kode_event_ticket .medium_btn {
+	margin-left: 0px;
+}
+.kode_event_ticket {
+	padding: 0;
+}
+/* event detail page start */
+
+.kode_calender_list .medium_btn {
+	display: none;
+}
+.kode_calender_detail.detail_2 .kode_calender_list .kode_event_text {
+	float: left;
+	padding-left: 0;
+	padding-right: 0;
+	width: 100%;
+}
+.kode_calender_detail.detail_2 .kode_event_text h4 {
+	font-size: 18px;
+}
+.kode_event_speakar > p,  .kode_detail_fig_text,  .kode_blog_detail_des > p {
+	text-align: center;
+}
+.event_detail_list li a {
+	font-size: 14px;
+}
+.kode_event_speaker_text {
+	margin-left: 24px;
+	padding: 16px 0 4px 25px;
+}
+.kode_coming_event_text h5 {
+	font-size: 16px;
+}
+.sidebar_add h3 {
+	font-size: 26px;
+}
+.sidebar_add h2 {
+	font-size: 30px;
+}
+.sidebar_add figcaption {
+	margin-top: -90px;
+}
+.kode_event_text h6 {
+	font-size: 14px;
+}
+/* event sidebar page start */
+
+.kode_blog_list .kode_blog_text h5 {
+	line-height: 22px;
+}
+.kode_pagination_list.navi_2 {
+	margin-bottom: 30px;
+}
+/* portfolio page star */
+
+.kode_blog_madium_wrap .col-md-3 {
+	width: 100%;
+}
+/* project page start */
+
+.kode_project_text {
+	padding: 27px 30px 23px;
+}
+.kode_project_text h4 {
+	font-size: 17px;
+}
+/* project sidebar page start */
+
+.kode_portfolio_des.des_2 .kode_project_text {
+	padding: 20px 15px 11px;
+}
+.kode_social_share > a {
+	display: none;
+}
+/* service page start */
+
+.kode_blog_madium_wrap.wrap_2.width_res .col-md-4,  .kode_blog_madium_wrap.detail.width_res .col-md-4 {
+	float: left;
+	width: 100%;
+}
+.kode_blog_madium_wrap.detail.width_res .kode_service_text .right_arrow {
+	margin-top: -15px;
+}
+/* service 01 page start */
+
+.kode_service_form {
+	padding: 75px 30px 80px;
+}
+/* service 02 page start */
+
+.kode_service_des .right_arrow.btn {
+	font-size: 14px;
+	right: 10px;
+}
+.kode_service_text .right_arrow {
+	margin-top: -21px;
+}
+/* service detail page start */
+
+.kode_service_detail_list .kode_service_des span {
+	right: 10px;
+}
+.kode_text_list li {
+	text-align: left;
+}
+.accordion-section h6 a:before {
+	right: 0px;
+}
+/* team detail page start */
+
+.kode_view_row .widget_social_icon {
+	float: left;
+}
+.kode_view_des {
+	float: left;
+	width: 100%;
+}
+.kode_payment_list h5 {
+	font-size: 15px;
+}
+.kode_philosophy_text h4 {
+	font-size: 20px;
+}
+.kode_photo_gallery li {
+	width: 29.3%;
+}
+.kode_photo_gallery li a img {
+	width: 100%;
+}
+
+	.owl-home .item{
+		height:350px;
+	}
+	.owl-home .abbu-contnt{
+		    bottom: 50px;
+	}
+	
+}
