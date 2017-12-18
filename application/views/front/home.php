@@ -648,7 +648,7 @@
         <!--SECTION HDG START-->
         <div class="section_hdg hdg_2 hdg_3"> 
           <a href="#">
-            <img src="<?php echo base_url("assets/images/hdg-img.png"); ?>" alt="">
+            <!-- <img src="<?php //echo base_url("assets/images/hdg-img.png"); ?>" alt=""> -->
           </a>
           <h3>Event Gallery
           </h3>
@@ -737,7 +737,7 @@
         <!--SECTION HDG START-->
         <div class="section_hdg hdg_2 hdg_3"> 
           <a href="#">
-            <img src="<?php echo base_url("assets/images/hdg-img.png"); ?>" alt="">
+            <!-- <img src="<?php //echo base_url("assets/images/hdg-img.png"); ?>" alt=""> -->
           </a>
           <h3>Our Trainers
           </h3>
@@ -769,7 +769,7 @@
           <div>
             <div class="kode_tem_fig">
               <figure> 
-                <img src="<?php echo base_url("assets/images/team-Mohamed Ewida - Trainer.jpg"); ?>" alt="">
+                <img src="<?php echo base_url("assets/images/team-Mohamed-Ewida-Trainer.jpg"); ?>" alt="">
                 <figcaption>
                   <h4>Mansoor Elahi
                   </h4>
@@ -834,7 +834,7 @@
           <div>
             <div class="kode_tem_fig">
               <figure> 
-                <img src="<?php echo base_url("assets/images/team-Shaji PK Instructor.jpg"); ?>" alt="">
+                <img src="<?php echo base_url("assets/images/team-Shaji-PK-Instructor.jpg"); ?>" alt="">
                 <figcaption>
                   <h4>Muhaid Ismat
                   </h4>
